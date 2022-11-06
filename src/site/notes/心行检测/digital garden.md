@@ -3,7 +3,7 @@
 ---
 
 
-my dg
+my [[心行检测/digital garden\|digital garden]] 
 
 > [!info]+ dd
 > dd
