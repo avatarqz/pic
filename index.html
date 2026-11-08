@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+  <title>《瑜伽师地论》摄异门分 · 加注研究</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="vendor_vue.css">
+  <style>
+    .wikilink { color:#2c662d; border-bottom:1px dotted #2c662d; text-decoration:none; }
+    .wikilink:hover { background:#eaf6ea; }
+    .obs-anchor { display:inline; }
+    .markdown-section { max-width: 920px; }
+    .missing-link { color:#999; }
+    /* footnotes */
+    .fn-ref { font-size: .72em; vertical-align: super; }
+    .fn-ref a, .fn-back { color: #2c662d; text-decoration: none; }
+    .footnotes { font-size: .9em; color: #555; margin-top: 2em; }
+    .footnotes ol { padding-left: 1.6em; }
+    .fn-back { margin-left: .35em; }
+  </style>
+</head>
+<body>
+  <div id="app">载入中…</div>
+  <script src="vendor_docsify.min.js"></script>
+  <script src="vendor_search.min.js"></script>
+  <script>
+  // Known wikilink targets that have a corresponding page in this repo.
+  // Anything else is rendered as plain text (no dead links), since the full
+  // vault is not hosted here.
+  var KNOWN_PAGES = {
+    "README": 1,
+    "README.md": 1,
+    "06_结论总表": 1,
+    "1579-083(2005)_辑注_精简-8": 1,
+    "1579-084(2005)_辑注": 1
+  };
+
+  // Convert a single Obsidian wikilink [[target#^anchor|label]] -> docsify <a>.
+  // Wikilinks may embed Obsidian attributes (data-page / data-source); those are
+  // ignored — only target + anchor are used for the link.
+  function convertWikilink(inner) {
+    var bar = inner.indexOf('|');
+    var body = (bar >= 0 ? inner.slice(0, bar) : inner).trim();
+    var label = (bar >= 0 ? inner.slice(bar + 1) : '').trim();
+
+    var hashIdx = body.indexOf('#');
+    var target = (hashIdx >= 0 ? body.slice(0, hashIdx) : body).trim();
+    var anchor = '';
+    if (hashIdx >= 0) {
+      var am = body.slice(hashIdx + 1).match(/\^?([A-Za-z0-9_\-]+)/);
+      if (am) anchor = am[1];
+    }
+
+    // Obsidian apparatus links often carry a numeric/bracket alias; use the
+    // page name as the visible label in that case.
+    if (!label || /^\[?\d+\]?$/.test(label)) label = target;
+
+    if (!target) {
+      // same-page anchor only
+      if (anchor) {
+        return '<a href="#/?id=' + anchor + '" class="wikilink">' + label + '</a>';
+      }
+      return label;
+    }
+    // strip a possible path / .md suffix before the membership test
+    var bare = target.replace(/^.*\//, '').replace(/\.md$/i, '');
+    if (KNOWN_PAGES.hasOwnProperty(target) || KNOWN_PAGES.hasOwnProperty(bare)) {
+      var href = '#/' + (KNOWN_PAGES.hasOwnProperty(target) ? target : bare) + (anchor ? '?id=' + anchor : '');
+      return '<a href="' + href + '" class="wikilink">' + label + '</a>';
+    }
+    return '<span class="missing-link">' + label + '</span>';
+  }
+
+  // --- Footnotes ---------------------------------------------------------
+  // Obsidian / Markdown footnotes: [^label] reference, [^label]: definition.
+  // docsify's markdown engine (marked) does not support them, so we convert
+  // them to HTML here. Definitions are gathered page-wide (they may sit in a
+  // different paragraph than the references) and re-emitted as one block.
+  function extractFootnoteDefs(seg) {
+    var lines = seg.split('\n');
+    var defs = {}, order = [], out = [];
+    var i = 0, n = lines.length;
+    while (i < n) {
+      var m = lines[i].match(/^(\s*)\[\^([^\]]+)\]:\s?(.*)$/);
+      if (m) {
+        var label = m[2], body = m[3];
+        var j = i + 1;
+        while (j < n && /^\s/.test(lines[j])) { body += '\n' + lines[j].replace(/^\s+/, ''); j++; }
+        if (!(label in defs)) order.push(label);
+        defs[label] = (label in defs ? defs[label] + '\n' + body : body);
+        i = j; continue;
+      }
+      out.push(lines[i]); i++;
+    }
+    return { defs: defs, order: order, body: out.join('\n') };
+  }
+
+  // --- Main transform ----------------------------------------------------
+  // Applies, in order: footnotes, wikilinks, block-anchors. Fenced code
+  // blocks (```) are left untouched. The (?!\]) lookahead lets a wikilink
+  // terminate correctly even when its embedded attributes contain square
+  // brackets (e.g. data-source="1343|[2]]]"). Footnotes run first so the
+  // caret in [^label] is consumed here, never mistaken for a block-anchor.
+  function transform(content) {
+    if (typeof content !== 'string') return content;
+    var parts = content.split('```');
+    var allDefs = {}, order = [];
+
+    // 1) pull footnote definitions out of every non-code segment
+    for (var i = 0; i < parts.length; i++) {
+      if (i % 2 === 1) continue;
+      var r = extractFootnoteDefs(parts[i]);
+      for (var k = 0; k < r.order.length; k++) {
+        var lb = r.order[k];
+        if (!(lb in allDefs)) { order.push(lb); allDefs[lb] = r.defs[lb]; }
+      }
+      parts[i] = r.body;
+    }
+
+    // 2) convert footnote references to clickable <sup> links
+    for (var i = 0; i < parts.length; i++) {
+      if (i % 2 === 1) continue;
+      parts[i] = parts[i].replace(/\[\^([^\]]+)\]/g, function (m, label) {
+        if (allDefs.hasOwnProperty(label)) {
+          return '<sup class="fn-ref"><a href="#fn-' + label + '" id="fnref-' + label + '">[' + label + ']</a></sup>';
+        }
+        return '[' + label + ']';
+      });
+    }
+
+    // 3) wikilinks + standalone block-anchors
+    for (var i = 0; i < parts.length; i++) {
+      if (i % 2 === 1) continue;
+      var seg = parts[i];
+      seg = seg.replace(/\[\[([\s\S]*?)\]\](?!\])/g, function (m, inner) {
+        return convertWikilink(inner);
+      });
+      seg = seg.replace(/\^([A-Za-z0-9][A-Za-z0-9\-]*)/g, function (m, id) {
+        return '<span id="' + id + '" class="obs-anchor"></span>';
+      });
+      parts[i] = seg;
+    }
+
+    var result = parts.join('```');
+
+    // 4) emit a single footnotes block at the end of the page
+    if (order.length) {
+      var blk = '\n\n<hr class="footnotes-sep">\n\n<section class="footnotes">\n\n<ol>\n';
+      for (var k = 0; k < order.length; k++) {
+        var l = order[k];
+        blk += '<li id="fn-' + l + '">' + allDefs[l] + ' <a href="#fnref-' + l + '" class="fn-back">↩</a></li>\n';
+      }
+      blk += '</ol>\n\n</section>\n';
+      // also convert any wikilinks / anchors inside the definitions
+      blk = blk.replace(/\[\[([\s\S]*?)\]\](?!\])/g, function (m, inner) { return convertWikilink(inner); });
+      blk = blk.replace(/\^([A-Za-z0-9][A-Za-z0-9\-]*)/g, function (m, id) { return '<span id="' + id + '" class="obs-anchor"></span>'; });
+      result += blk;
+    }
+    return result;
+  }
+
+  // Footnote links are same-page anchors. docsify would otherwise treat the
+  // bare "#fn-1" hash as a route and 404, so we intercept the click in the
+  // capture phase (before docsify's own handler) and scroll natively.
+  document.addEventListener('click', function (e) {
+    var t = e.target;
+    var a = (t && t.closest) ? t.closest('a.fn-ref, a.fn-back') : null;
+    if (!a) return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    var href = a.getAttribute('href') || '';
+    var id = href.charAt(0) === '#' ? href.slice(1) : href;
+    var el = document.getElementById(id);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (history.replaceState) history.replaceState(null, '', '#' + id);
+    }
+  }, true);
+
+  window.$docsify = {
+    name: '《瑜伽师地论》摄异门分 · 加注研究',
+    repo: 'avatarqz/pic',
+    homepage: 'README.md',
+    loadSidebar: true,
+    subMaxLevel: 3,
+    auto2top: true,
+    relativePath: true,
+    search: {
+      maxAge: 86400000,
+      placeholder: '搜寻（全文）',
+      noData: '找不到结果',
+      depth: 6
+    },
+    plugins: [
+      function (hook, vm) {
+        hook.beforeEach(function (content, next) {
+          next(transform(content));
+        });
+      }
+    ]
+  };
+  </script>
+</body>
+</html>
