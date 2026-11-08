@@ -207,6 +207,64 @@
         hook.beforeEach(function (content, next) {
           next(transform(content));
         });
+      },
+      // Auto-build the sidebar by traversing every .md in the repo (GitHub
+      // tree API). Cached in localStorage; the static _sidebar.md is kept as a
+      // fallback if the API call fails.
+      function (hook, vm) {
+        function enc(p) { return p.split('/').map(encodeURIComponent).join('/'); }
+        function renderSidebar(tree) {
+          var nav = document.querySelector('.sidebar-nav');
+          if (!nav) return;
+          var mds = tree.filter(function (t) {
+            return t.path.endsWith('.md') && t.path !== '_sidebar.md';
+          });
+          var hasRootReadme = mds.some(function (t) { return t.path === 'README.md'; });
+          var groups = {};
+          mds.forEach(function (t) {
+            var ps = t.path.split('/');
+            var g = ps.length > 1 ? ps[0] : '(root)';
+            (groups[g] = groups[g] || []).push(t.path);
+          });
+          var html = '<ul class="app-sub-sidebar">';
+          if (hasRootReadme) {
+            html += '<li><a href="#/README.md">首页</a></li>';
+          }
+          Object.keys(groups).sort().forEach(function (g) {
+            if (g === '(root)') {
+              groups[g].sort().forEach(function (p) {
+                if (p === 'README.md') return;
+                var label = p.replace(/\.md$/, '');
+                html += '<li><a href="#/' + enc(p) + '">' + label + '</a></li>';
+              });
+            } else {
+              html += '<li>' + g + '<ul>';
+              groups[g].sort().forEach(function (p) {
+                var label = p.split('/').pop().replace(/\.md$/, '');
+                html += '<li><a href="#/' + enc(p) + '">' + label + '</a></li>';
+              });
+              html += '</ul></li>';
+            }
+          });
+          html += '</ul>';
+          nav.innerHTML = html;
+        }
+        hook.mounted(function () {
+          var CK = 'pic_sidebar_tree_v1';
+          try {
+            var c = JSON.parse(localStorage.getItem(CK));
+            if (c) renderSidebar(c);
+          } catch (e) {}
+          fetch('https://api.github.com/repos/avatarqz/pic/git/trees/main?recursive=1')
+            .then(function (r) { return r.json(); })
+            .then(function (d) {
+              if (d && d.tree) {
+                try { localStorage.setItem(CK, JSON.stringify(d.tree)); } catch (e) {}
+                renderSidebar(d.tree);
+              }
+            })
+            .catch(function () {});
+        });
       }
     ]
   };
