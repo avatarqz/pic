@@ -213,11 +213,20 @@
       // fallback if the API call fails.
       function (hook, vm) {
         function enc(p) { return p.split('/').map(encodeURIComponent).join('/'); }
+        // Folders / files excluded from the navigation (files stay in the repo).
+        var EXCLUDE = [
+          'src/site/notes/deepin_md/ebooks/[OCR]_神经症 (许又新) .md',
+          'src/site/notes/deepin_md/keynotes/index.md',
+          'src/site/notes/mindful/README.md'
+        ];
+        function isExcluded(p) {
+          return EXCLUDE.indexOf(p) >= 0 || p.indexOf('src/site/notes/') === 0;
+        }
         function renderSidebar(tree) {
           var nav = document.querySelector('.sidebar-nav');
           if (!nav) return;
           var mds = tree.filter(function (t) {
-            return t.path.endsWith('.md') && t.path !== '_sidebar.md';
+            return t.path.endsWith('.md') && t.path !== '_sidebar.md' && !isExcluded(t.path);
           });
           var hasRootReadme = mds.some(function (t) { return t.path === 'README.md'; });
           var groups = {};
