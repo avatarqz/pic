@@ -32,8 +32,7 @@
     "README.md": 1,
     "06_结论总表": 1,
     "1579-083(2005)_辑注_精简-8": 1,
-    "1579-084(2005)_辑注": 1,
-    "pts": 1
+    "1579-084(2005)_辑注": 1
   };
 
   // Convert a single Obsidian wikilink [[target#^anchor|label]] -> docsify <a>.
@@ -176,7 +175,9 @@
   // capture phase (before docsify's own handler) and scroll natively.
   document.addEventListener('click', function (e) {
     var t = e.target;
-    var a = (t && t.closest) ? t.closest('a.fn-ref, a.fn-back') : null;
+    // footnote reference <a> sits inside <sup class="fn-ref">, so match the
+    // inner <a> via the descendant combinator; back-links are plain <a class="fn-back">.
+    var a = (t && t.closest) ? t.closest('sup.fn-ref a, a.fn-back') : null;
     if (!a) return;
     e.preventDefault();
     e.stopImmediatePropagation();
