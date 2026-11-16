@@ -273,7 +273,7 @@
           box.className = 'ebook-side-search';
           box.style.cssText = 'padding:6px 10px 4px;';
           box.innerHTML = '<input id="ebook-side-search" type="search" ' +
-            'placeholder="筛选电子书书名（回车跳转总目）" ' +
+            'placeholder="搜索三库书名（回车跳转总目）" ' +
             'style="width:100%;box-sizing:border-box;padding:.45em .6em;' +
             'border:1px solid #ccc;border-radius:4px;font-size:.9em;">';
           nav.parentNode.insertBefore(box, nav);
@@ -281,7 +281,7 @@
             if (e.key !== 'Enter') return;
             e.preventDefault();
             var v = this.value.trim();
-            location.hash = '#/ebooks/README.md' + (v ? '?ebookq=' + encodeURIComponent(v) : '');
+            location.hash = '#/all-catalog.md' + (v ? '?ebookq=' + encodeURIComponent(v) : '');
           });
         });
       },
@@ -300,9 +300,9 @@
           // Keep the big collections out of the auto tree nav; a single fixed
           // index link for each is injected in renderSidebar instead:
           // smallpdfs/ (629), ebooks/ (242), 04journal/ (51, PTS 各期不铺开).
-          return EXCLUDE.indexOf(p) >= 0 || p.indexOf('src/site/notes/') === 0 ||
-            p.indexOf('smallpdfs/') === 0 || p.indexOf('ebooks/') === 0 ||
-            p.indexOf('04journal/') === 0;
+          return EXCLUDE.indexOf(p) >= 0 || p === 'all-catalog.md' ||
+            p.indexOf('src/site/notes/') === 0 || p.indexOf('smallpdfs/') === 0 ||
+            p.indexOf('ebooks/') === 0 || p.indexOf('04journal/') === 0;
         }
         function renderSidebar(tree) {
           var nav = document.querySelector('.sidebar-nav');
@@ -322,6 +322,7 @@
             html += '<li><a href="#/README.md">首页</a></li>';
           }
           // Fixed local entries: not guaranteed to be in the GitHub tree (served locally).
+          html += '<li><a href="#/all-catalog.md">三库合并总目（1018 篇 · 统一搜索）</a></li>';
           html += '<li><a href="#/smallpdfs/zh/README.md">论文译文总目（629 篇）</a></li>';
           html += '<li><a href="#/ebooks/README.md">电子书库总目（242 篇）</a></li>';
           html += '<li><a href="#/pts.md">PTS 学报总目</a></li>';
