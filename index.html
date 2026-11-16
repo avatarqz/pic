@@ -189,18 +189,37 @@
         return;
       }
     }
+    // any relative .md link (catalog books) — captured for the route rewrite below
+    var mdA = t.closest('a[href]');
     // footnote reference <a> sits inside <sup class="fn-ref">, so match the
     // inner <a> via the descendant combinator; back-links are plain <a class="fn-back">.
     var a = t.closest('sup.fn-ref a, a.fn-back');
-    if (!a) return;
-    e.preventDefault();
-    e.stopImmediatePropagation();
-    var href = a.getAttribute('href') || '';
-    var id = href.charAt(0) === '#' ? href.slice(1) : href;
-    var el = document.getElementById(id);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      if (history.replaceState) history.replaceState(null, '', '#' + id);
+    if (a) {
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      var href = a.getAttribute('href') || '';
+      var id = href.charAt(0) === '#' ? href.slice(1) : href;
+      var el = document.getElementById(id);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        if (history.replaceState) history.replaceState(null, '', '#' + id);
+      }
+      return;
+    }
+    // Catalog book links use a relative .md href (no '#'). A raw click does a
+    // full-document navigation to the raw file, which the server sends as
+    // text/markdown WITHOUT charset — the browser mis-decodes the UTF-8 bytes
+    // (Latin-1) and the whole page renders as mojibake. Route them through the
+    // docsify SPA instead; docsify fetches .md as UTF-8.
+    if (mdA) {
+      var mh = mdA.getAttribute('href') || '';
+      if (mh.charAt(0) !== '#' && mh.indexOf('://') === -1 && /\.md$/i.test(mh)) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        var route = mh.replace(/^\/+/, '').replace(/\.md$/i, '');
+        location.hash = '#/' + route.split('/').map(encodeURIComponent).join('/');
+        return;
+      }
     }
   }, true);
 
