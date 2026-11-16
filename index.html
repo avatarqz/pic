@@ -204,6 +204,33 @@
     }
   }, true);
 
+  // Apply the ebooks title filter to the catalog page currently in the DOM.
+  // Shared by the catalog's own input and the sidebar search box (which navigates
+  // here with ?ebookq=<keyword>). 'q' overrides the input value when provided.
+  function applyEbookFilter(q) {
+    var input = document.getElementById('ebook-filter');
+    if (!input) return;
+    if (typeof q === 'string') input.value = q;
+    q = (input.value || '').trim().toLowerCase();
+    var groups = Array.prototype.slice.call(document.querySelectorAll('.ebook-group'));
+    var nohit = document.getElementById('ebook-nohit');
+    var totalVisible = 0;
+    groups.forEach(function (g) {
+      var items = g.querySelectorAll('.ebook-item');
+      var visible = 0;
+      Array.prototype.forEach.call(items, function (li) {
+        var hit = !q || (li.getAttribute('data-title') || '').toLowerCase().indexOf(q) >= 0;
+        li.style.display = hit ? '' : 'none';
+        if (hit) visible++;
+      });
+      var cnt = g.querySelector('.ebook-count');
+      if (cnt) cnt.textContent = visible;
+      g.style.display = visible ? '' : 'none';
+      totalVisible += visible;
+    });
+    if (nohit) nohit.style.display = totalVisible ? 'none' : '';
+  }
+
   window.$docsify = {
     name: '《瑜伽师地论》摄异门分 · 加注研究',
     repo: 'avatarqz/pic',
@@ -225,32 +252,36 @@
           next(transform(content));
         });
       },
-      // Live title filter on the ebooks catalog page (ebooks/README.md).
-      // markdown <script> tags are not executed by docsify, so bind here after
-      // each page render, only when the catalog input is present in the DOM.
+      // Live title filter on the ebooks catalog page (ebooks/README.md), plus
+      // a book-title search box in the sidebar. Enter in the sidebar box jumps
+      // to the catalog carrying the keyword in ?ebookq=; doneEach fills it back
+      // in. markdown <script> tags are not executed by docsify, so do all of
+      // this in plugins.
       function (hook, vm) {
         hook.doneEach(function () {
+          // catalog page input
           var input = document.getElementById('ebook-filter');
-          if (!input) return;
-          var groups = Array.prototype.slice.call(document.querySelectorAll('.ebook-group'));
-          var nohit = document.getElementById('ebook-nohit');
-          input.addEventListener('input', function () {
-            var q = input.value.trim().toLowerCase();
-            var totalVisible = 0;
-            groups.forEach(function (g) {
-              var items = g.querySelectorAll('.ebook-item');
-              var visible = 0;
-              Array.prototype.forEach.call(items, function (li) {
-                var hit = !q || (li.getAttribute('data-title') || '').toLowerCase().indexOf(q) >= 0;
-                li.style.display = hit ? '' : 'none';
-                if (hit) visible++;
-              });
-              var cnt = g.querySelector('.ebook-count');
-              if (cnt) cnt.textContent = visible;
-              g.style.display = visible ? '' : 'none';
-              totalVisible += visible;
-            });
-            if (nohit) nohit.style.display = totalVisible ? 'none' : '';
+          if (input) {
+            var q = vm.route && vm.route.query && vm.route.query.ebookq;
+            if (q) applyEbookFilter(q);
+            input.addEventListener('input', function () { applyEbookFilter(); });
+          }
+          // sidebar search box (inject once; docsify rebuilds sidebar per page)
+          var nav = document.querySelector('.sidebar-nav');
+          if (!nav || document.getElementById('ebook-side-search')) return;
+          var box = document.createElement('div');
+          box.className = 'ebook-side-search';
+          box.style.cssText = 'padding:6px 10px 4px;';
+          box.innerHTML = '<input id="ebook-side-search" type="search" ' +
+            'placeholder="筛选电子书书名（回车跳转总目）" ' +
+            'style="width:100%;box-sizing:border-box;padding:.45em .6em;' +
+            'border:1px solid #ccc;border-radius:4px;font-size:.9em;">';
+          nav.parentNode.insertBefore(box, nav);
+          document.getElementById('ebook-side-search').addEventListener('keydown', function (e) {
+            if (e.key !== 'Enter') return;
+            e.preventDefault();
+            var v = this.value.trim();
+            location.hash = '#/ebooks/README.md' + (v ? '?ebookq=' + encodeURIComponent(v) : '');
           });
         });
       },
@@ -266,10 +297,12 @@
           'src/site/notes/mindful/README.md'
         ];
         function isExcluded(p) {
-          // smallpdfs/zh (630 docs) and ebooks/ (242 docs) are kept out of the
-          // auto tree nav; a single fixed index link is injected in renderSidebar instead.
+          // Keep the big collections out of the auto tree nav; a single fixed
+          // index link for each is injected in renderSidebar instead:
+          // smallpdfs/ (629), ebooks/ (242), 04journal/ (51, PTS 各期不铺开).
           return EXCLUDE.indexOf(p) >= 0 || p.indexOf('src/site/notes/') === 0 ||
-            p.indexOf('smallpdfs/') === 0 || p.indexOf('ebooks/') === 0;
+            p.indexOf('smallpdfs/') === 0 || p.indexOf('ebooks/') === 0 ||
+            p.indexOf('04journal/') === 0;
         }
         function renderSidebar(tree) {
           var nav = document.querySelector('.sidebar-nav');
