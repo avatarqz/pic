@@ -175,9 +175,23 @@
   // capture phase (before docsify's own handler) and scroll natively.
   document.addEventListener('click', function (e) {
     var t = e.target;
+    if (!t || !t.closest) return;
+    // Source-PDF links must open the real file, never be routed by docsify.
+    var pdfA = t.closest('a[href]');
+    if (pdfA) {
+      var ph = pdfA.getAttribute('href') || '';
+      if (/\.pdf(\?|$)/i.test(ph)) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        // docsify may rewrite /smallpdfs/x.pdf into #/smallpdfs/x.pdf — strip the '#'.
+        var real = ph.charAt(0) === '#' ? ph.slice(1) : ph;
+        window.open(real, '_blank', 'noopener');
+        return;
+      }
+    }
     // footnote reference <a> sits inside <sup class="fn-ref">, so match the
     // inner <a> via the descendant combinator; back-links are plain <a class="fn-back">.
-    var a = (t && t.closest) ? t.closest('sup.fn-ref a, a.fn-back') : null;
+    var a = t.closest('sup.fn-ref a, a.fn-back');
     if (!a) return;
     e.preventDefault();
     e.stopImmediatePropagation();
@@ -197,6 +211,8 @@
     loadSidebar: true,
     subMaxLevel: 3,
     auto2top: true,
+    // Keep /smallpdfs/*.pdf links as raw browser links (don't rewrite into #/ routes)
+    noCompileLinks: ['/smallpdfs/[^"\\s]+\\.pdf'],
     search: {
       maxAge: 86400000,
       placeholder: '搜寻（全文）',
@@ -207,6 +223,35 @@
       function (hook, vm) {
         hook.beforeEach(function (content, next) {
           next(transform(content));
+        });
+      },
+      // Live title filter on the ebooks catalog page (ebooks/README.md).
+      // markdown <script> tags are not executed by docsify, so bind here after
+      // each page render, only when the catalog input is present in the DOM.
+      function (hook, vm) {
+        hook.doneEach(function () {
+          var input = document.getElementById('ebook-filter');
+          if (!input) return;
+          var groups = Array.prototype.slice.call(document.querySelectorAll('.ebook-group'));
+          var nohit = document.getElementById('ebook-nohit');
+          input.addEventListener('input', function () {
+            var q = input.value.trim().toLowerCase();
+            var totalVisible = 0;
+            groups.forEach(function (g) {
+              var items = g.querySelectorAll('.ebook-item');
+              var visible = 0;
+              Array.prototype.forEach.call(items, function (li) {
+                var hit = !q || (li.getAttribute('data-title') || '').toLowerCase().indexOf(q) >= 0;
+                li.style.display = hit ? '' : 'none';
+                if (hit) visible++;
+              });
+              var cnt = g.querySelector('.ebook-count');
+              if (cnt) cnt.textContent = visible;
+              g.style.display = visible ? '' : 'none';
+              totalVisible += visible;
+            });
+            if (nohit) nohit.style.display = totalVisible ? 'none' : '';
+          });
         });
       },
       // Auto-build the sidebar by traversing every .md in the repo (GitHub
@@ -221,7 +266,10 @@
           'src/site/notes/mindful/README.md'
         ];
         function isExcluded(p) {
-          return EXCLUDE.indexOf(p) >= 0 || p.indexOf('src/site/notes/') === 0;
+          // smallpdfs/zh (630 docs) and ebooks/ (242 docs) are kept out of the
+          // auto tree nav; a single fixed index link is injected in renderSidebar instead.
+          return EXCLUDE.indexOf(p) >= 0 || p.indexOf('src/site/notes/') === 0 ||
+            p.indexOf('smallpdfs/') === 0 || p.indexOf('ebooks/') === 0;
         }
         function renderSidebar(tree) {
           var nav = document.querySelector('.sidebar-nav');
@@ -240,6 +288,10 @@
           if (hasRootReadme) {
             html += '<li><a href="#/README.md">首页</a></li>';
           }
+          // Fixed local entries: not guaranteed to be in the GitHub tree (served locally).
+          html += '<li><a href="#/smallpdfs/zh/README.md">论文译文总目（629 篇）</a></li>';
+          html += '<li><a href="#/ebooks/README.md">电子书库总目（242 篇）</a></li>';
+          html += '<li><a href="#/pts.md">PTS 学报总目</a></li>';
           Object.keys(groups).sort().forEach(function (g) {
             if (g === '(root)') {
               groups[g].sort().forEach(function (p) {
