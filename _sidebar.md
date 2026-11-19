@@ -1,6 +1,6 @@
 * 导览
   * [首页](README.md)
-  * [三库合并总目（1018 篇 · 统一搜索）](all-catalog.md)
+  * [四库合并总目（1031 篇 · 统一搜索）](all-catalog.md)
 
 * 摄异门分研究（《瑜伽师地论》）
   * [结论总表](yogacara/06_结论总表.md)
@@ -15,6 +15,7 @@
 
 * 电子书库（《ebooks》）
   * [电子书库总目（242 篇）](ebooks/README.md) · 支持按书名筛选
+  * [文章译文总目（75 篇）](ebooks/Articles/zh/README.md)
 
 * 学报总目
   * [PTS 学报总目](pts.md)

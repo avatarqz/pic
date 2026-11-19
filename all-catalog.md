@@ -1,6 +1,6 @@
-# 三库合并总目（统一搜索）
+# 四库合并总目（统一搜索）
 
-本页合并 **ebooks（242）+ smallpdfs（629）+ smallepubs（147）共 1018 篇**，一个筛选框同时搜索三库书名（中文书名与英文文件名均可匹配）。
+本页合并 **ebooks（242）+ smallpdfs（629）+ smallepubs（147）+ mediumfiles（13）共 1031 篇**，一个筛选框同时搜索三库书名（中文书名与英文文件名均可匹配）。
 
 > 输入关键词即时筛选；分组标题后的数字为当前可见篇数。
 
@@ -1043,3 +1043,21 @@
 </ul>
 </section>
 
+<section class="ebook-group">
+<h2>电子书译文 mediumfiles（<span class="ebook-count">13</span> 篇）</h2>
+<ul>
+<li class="ebook-item" data-title="indian buddhist theories of person vasubandhus refutation of the theory of a self routledgecurzon critical studies in buddhism 俱舍论破我品 indian buddhist theories of person vasubandhus refutation of the theory of a self routledgecurzon critical studies in buddhism 俱舍论破我品"><a href="mediumfiles/zh/Indian%20Buddhist%20Theories%20Of%20Person%20Vasubandhus%20%20Refutation%20of%20the%20Theory%20of%20a%20Self%20%28Routledgecurzon%20Critical%20Studies%20in%20Buddhism%29%20%20%28%E4%BF%B1%E8%88%8D%E8%AE%BA%E7%A0%B4%E6%88%91%E5%93%81%29.md">Indian Buddhist Theories Of Person Vasubandhus  Refutation of the Theory of a Self (Routledgecurzon Critical Studies in Buddhism)  (俱舍论破我品)</a></li>
+<li class="ebook-item" data-title="jewels from the treasury vasubandhus verses on the treasury of abhidharma and its commentary youthful play by the ninth karmapa wangchuk dorje by vasubandhu ninth karmapa wangchuk dorje david karma jewels from the treasury vasubandhus verses on the treasury of abhidharma and its commentary youthful play by the ninth karmapa wangchuk dorje by vasubandhu ninth karmapa wangchuk dorje david karma"><a href="mediumfiles/zh/Jewels%20From%20the%20Treasury%20Vasubandhus%20Verses%20on%20the%20Treasury%20of%20Abhidharma%20and%20Its%20Commentary%20Youthful%20Play%20by%20the%20Ninth%20Karmapa%20Wangchuk%20Dorje%20by%20Vasubandhu%2C%20Ninth%20Karmapa%20Wangchuk%20Dorje%2C%20David%20Karma.md">Jewels From the Treasury Vasubandhus Verses on the Treasury of Abhidharma and Its Commentary Youthful Play by the Ninth Karmapa Wangchuk Dorje by Vasubandhu, Ninth Karmapa Wangchuk Dorje, David Karma</a></li>
+<li class="ebook-item" data-title="ornament of abhidharma a commentary on vasubandhus abhidharma chim jampalyang ian james coghlan 阿毗达磨庄严论 世亲俱舍论的注释 ornament of abhidharma a commentary on vasubandhus abhidharma chim jampalyang ian james coghlan 阿毗达磨庄严论 世亲俱舍论的注释"><a href="mediumfiles/zh/Ornament%20of%20Abhidharma%20A%20Commentary%20on%20Vasubandhus%20Abhidharma%28Chim%20Jampalyang%2C%20Ian%20James%20Coghlan%29%20%28%E9%98%BF%E6%AF%97%E8%BE%BE%E7%A3%A8%E5%BA%84%E4%B8%A5%E8%AE%BA%E2%80%94%E2%80%94%E4%B8%96%E4%BA%B2%E4%BF%B1%E8%88%8D%E8%AE%BA%E7%9A%84%E6%B3%A8%E9%87%8A%29.md">Ornament of Abhidharma A Commentary on Vasubandhus Abhidharma(Chim Jampalyang, Ian James Coghlan) (阿毗达磨庄严论——世亲俱舍论的注释)</a></li>
+<li class="ebook-item" data-title="vasubandhus abhidharmakosa and the commentaries preserved in the tanjur marek mejor 世亲俱舍论及保存在丹珠尔中的注释 vasubandhus abhidharmakosa and the commentaries preserved in the tanjur marek mejor 世亲俱舍论及保存在丹珠尔中的注释"><a href="mediumfiles/zh/Vasubandhus%20Abhidharmakosa%20and%20the%20Commentaries%20preserved%20in%20the%20Tanjur%20%28Marek%20Mejor%29%20%28%E4%B8%96%E4%BA%B2%E4%BF%B1%E8%88%8D%E8%AE%BA%E5%8F%8A%E4%BF%9D%E5%AD%98%E5%9C%A8%E4%B8%B9%E7%8F%A0%E5%B0%94%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A%29.md">Vasubandhus Abhidharmakosa and the Commentaries preserved in the Tanjur (Marek Mejor) (世亲俱舍论及保存在丹珠尔中的注释)</a></li>
+<li class="ebook-item" data-title="amaro 2021 copper isle miles amaro 2021 copper isle miles"><a href="mediumfiles/zh/amaro_2021_copper-isle-miles.md">amaro_2021_copper-isle-miles</a></li>
+<li class="ebook-item" data-title="barkan 2011 understanding and changing the social world barkan 2011 understanding and changing the social world"><a href="mediumfiles/zh/barkan_2011_understanding-and-changing-the-social-world.md">barkan_2011_understanding-and-changing-the-social-world</a></li>
+<li class="ebook-item" data-title="dhammavuddho 1988 monks precepts dhammavuddho 1988 monks precepts"><a href="mediumfiles/zh/dhammavuddho_1988_monks-precepts.md">dhammavuddho_1988_monks-precepts</a></li>
+<li class="ebook-item" data-title="intro to abhidhamma intro to abhidhamma"><a href="mediumfiles/zh/intro-to-abhidhamma.md">intro-to-abhidhamma</a></li>
+<li class="ebook-item" data-title="kelly jessica 2017 biology of aging kelly jessica 2017 biology of aging"><a href="mediumfiles/zh/kelly-jessica_2017_biology-of-aging.md">kelly-jessica_2017_biology-of-aging</a></li>
+<li class="ebook-item" data-title="levy 2014 psychology levy 2014 psychology"><a href="mediumfiles/zh/levy_2014_psychology.md">levy_2014_psychology</a></li>
+<li class="ebook-item" data-title="lucic karen 2015 embodying compassion in buddhist art lucic karen 2015 embodying compassion in buddhist art"><a href="mediumfiles/zh/lucic-karen_2015_embodying-compassion-in-buddhist-art.md">lucic-karen_2015_embodying-compassion-in-buddhist-art</a></li>
+<li class="ebook-item" data-title="wen fong 1975 summer mountain timeless landscape wen fong 1975 summer mountain timeless landscape"><a href="mediumfiles/zh/wen-fong_1975_summer-mountain-timeless-landscape.md">wen-fong_1975_summer-mountain-timeless-landscape</a></li>
+<li class="ebook-item" data-title="俱舍研究材料 study materials 俱舍研究材料 study materials"><a href="mediumfiles/zh/%E4%BF%B1%E8%88%8D%E7%A0%94%E7%A9%B6%E6%9D%90%E6%96%99%E2%80%94Study%20materials.md">俱舍研究材料—Study materials</a></li>
+</ul>
+</section>

@@ -1,0 +1,21 @@
+# 佛教 树木与森林
+
+> **原文标题**：Buddhism Trees And Forests
+
+**作者**：USER　**年份**：2016
+
+> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2016_buddhism-trees-and-forests.pdf)
+
+## 全文（机器翻译）
+
+佛教、树木与森林 3月21日是国际森林日。在这一天以及类似的“国际日”，组织委员会会尽可能让社会各界参与，成功程度各异，热情也会波动。宗教领袖和团体通常也会被拉来助力，鉴于宗教在社会中的影响，这是可以理解的。一些宗教在相关问题上有值得一提的见解，那些没有的，至少会尽力说一些相关的事情，无论多么牵强或不令人信服。就国际森林日而言，很少有宗教在森林和树木方面比佛教有更多有意义的见解。除了佛陀的基本教法——佛教典籍《三藏》——几乎没有其他任何主题比其对植物、尤其是森林和树木的内容更多。当然，人们首先会想到的是佛陀与树木的直接联系：他出生在树下，在茄子树（Eugenia jambolala）下有过早期的精神体验，在菩提树（Ficus religiosa）下觉悟，并在两棵大叶榕（Shorea robusta）之间圆寂。但认为这就是佛陀或佛教与树木最重要的联系则是错误的。通常认为公元前约320年的希罗芬图斯的《植物志》是作为科学的植物学的开始——而这是有充分理由的。然而，《三藏》显示，植物学的探究和理解植物的尝试至少在两百年前就已经由佛陀和最初的佛教徒开始了，虽然不像希腊人那样系统，但仍然是理性的。佛陀将植物分类为药草、草类或森林树木（osadhi, tina 和 vanappati）。在其他时候，他按植物的繁殖方式进行分类；是否通过根（mula）、茎（khandha）、节（phulla）、插枝（agga）或种子（bija）繁殖。他认为植物是一种单感官生命形式（ekindriya）。虽然他没有说明植物具备哪种感官，他可能指的是植物的形态运动和趋性，例如
+一些花在夜间闭合而白天开放，还有一些花会随太阳转动。在《本生经》中，我们可以看到对树木的早期定义尝试：“它被称为树，因为它有枝条。没有枝条，它只是一个桩子。”《帕拉玛塔焦提卡》将森林定义为“树木紧密生长在一起的集合”。佛陀提到的一些树的结构组成部分和其他部位包括根（mula）、树干（danda或khandha）、外皮或树皮（papatika）、韧皮或内皮（taca）、边材（pheggu）、心材（sara）、枝条（sakha）、小枝（pasakha）、叶子（panna或patta）和树冠（agga）。还有对种荚（sipatika）的提及，其中一些包裹着被绒毛（tula）包围的种子。树木的根，即固定树木并吸收和运输水分及养分的部位，被识别并描述过。提到的一些不同根系包括木质根，可长可短（dighamula和rassamula）、主根与侧根（mulani ahogamaniyani tiriyangamani）、吸收根（naḷi）、扩展根（mulasantanaka）和须根（mattani）。在《相应部》中，榕树的气生根被称为“由干生出”（khandhaja）。人们认识到根从土壤中吸收水分和养分，汁液（oja）通过树干向上流入枝条和叶子。《清净道》中说：“当一棵大树生长在地上，由腐殖质的精华滋养，并以此为条件，它的根、树干、枝条和嫩芽、叶子、花朵和果实生长，从而填满天空并延续树种直到劫尽时，人们不能说腐殖质的精华仅存在于根中而不在树干中，或存在于果实中而不在根中，诸如此类。为什么？因为它从根向上遍布整个树。”花，开花植物的生殖结构，被详细研究，每个部分都被命名并描述。
+因此，《三藏》提到了花梗（danda 或 vanta）、花蕾（koraka）、花瓣（patta 或 dala）、花萼（gabbha）、雄蕊（kanjakkha）、果皮（kannika）和花粉（renu）。尽管有如此仔细的观察，佛教徒和其他古印度人仍然不理解这些部分的功能。
+
+《本生经》将花分为两类：生长在陆地上的花和生长在水中的花，尽管有时会再增加两类，即生长在藤蔓上的花和从树干或树枝上长出的花。佛陀一向是细心的观察者，他注意到“如果一棵树的根没有受损且完整，被砍下的树仍然可以重新生长”（法句经338）。然而，他也观察到某些植物，尤其是棕榈树，如果“从根部被砍断”，就不能再生。在古代印度，人们普遍相信居住在树上的神可以回应祈祷，就像他们现在的后代一样。希腊人也有类似的信仰，他们称树灵为干娜精灵。在巴利语中，它们被称为rukkhadevata、vanadevata或aramadevata。《三藏》中没有地方显示佛陀像偶尔供奉诸神那样认可树木崇拜。在《法句经》188-189节中，他说：“人被恐惧驱使，去往圣山、森林、林地、树木和神殿，但这些都不是安全的庇护，也不是最好的庇护。仅仅去那里不能让人解脱一切苦难。”在《律藏》中，他也说过：“人们普遍相信树中有生命（即灵或神）”，暗示虽然这是一个广泛的观念，但他并不接受。若干《本生经》中嘲讽树木崇拜的故事显然受到了佛陀拒绝树木崇拜的影响。佛陀不仅是树木及其他植物的细心观察者，他似乎对它们怀有尊重甚至喜爱。在将善良慷慨的人比作树时，他体现了这一点。他说，仁慈好客的人“像路边生长的大榕树，用凉荫欢迎疲惫的旅人，使他们的疲劳得到缓解”。《弥林答问》大约在四百年后做了类似的比喻：“正如一棵树并不区分自己所提供的荫凉，修行者也应对众生一视同仁，为盗贼、杀人犯、敌人以及自己同样培养慈爱心。”早期佛教的态度似乎是：不要崇拜树木，要努力向它们学习！
+佛陀还讲了一个故事来说明尊重树木的重要性。很久以前，传说中的国王科拉维亚在他的领土上有一棵神奇的榕树，这棵树结出的果实异常甘甜。领地里的所有人都可以自由享用果实，因此没有人会去守护这棵树。但有一天，一个人吃够了果实后，折断了一根树枝便离开了。这种忘恩负义的行为激怒了树精，使得这棵树再也不结果实了。对树木的尊重态度在《宠道经》中有这样一句让人难忘的话：“坐在或躺在其荫下的树旁，不应折其枝，因为若折则为背友之人，为作恶之人……坐在或躺在其荫下的树旁，不应伤其叶，因为若伤则为背友之人，为作恶之人。”（Pv.21,35）难道不应该在全国每个森林保护区和国家公园的入口处张贴这句话吗？后来佛教文献中充满了关于树木的美好章节，以下只是其中的一部分。阿育王的《佛传》中将修行比作一棵树，“其纤维是耐心，其花是美德，其枝是觉知与智慧，其根基于决心，并结出法的果实。”《大毗婆沙论》说：“有功德的人如同一棵榕树般成长，而功德微小的人则如同种在路上的树般矮小。”在《菩提道次第论》中，伟大的梵文诗人圣提德瓦以这些文字表达了对森林生活宁静的渴望：“树木不说恶语，也不通过巧计取悦。何时我才能与那些乐于与树共处的人一同生活呢？”有着如此长期的关注和尊重树木的传统，佛教徒理应认真对待国际森林日，并尽其所能保护国家的林木遗产。
+
+---
+
+[^1]: 出处信息：Author: USER; File: dhammika_2016_buddhism-trees-and-forests.pdf
+[^2]: 原文（English）：Buddhism, Trees and Forests The 21st of March is the International Day of Forests. On this and similar “international days” the organising committees try to get as many elements of society involved as possible, with varying degrees of success, and with fluctuating levels of enthusiasm. Religious leaders and bodies are usually roped in to help too, and given religion’s influence in society this is only understandable. Some religions have something meaningful to say on the issues involved, those that do not do their best to at least say something relevant, no matter how unconvincing or forced. As far as International Day of Forests is concerned few religions could have more that is meaningful to say about forests and trees than Buddhism. Other than the actual Dhamma itself, the Tipitaka, the Buddhist scriptures, says more about plants in general and forests and tree in particular, than almost any other subject. Of course the thing that first comes to mind is the Buddha’s immediate connection with trees, the fact that he was born under a tree, had an early spiritual experience under a Eugenia jambolala tree, became Awakened under a Ficus religiosa, and passed away between two Shorea r

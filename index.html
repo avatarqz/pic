@@ -217,7 +217,16 @@
         e.preventDefault();
         e.stopImmediatePropagation();
         var route = mh.replace(/^\/+/, '').replace(/\.md$/i, '');
-        location.hash = '#/' + route.split('/').map(encodeURIComponent).join('/');
+        // The catalog .md hrefs are already percent-encoded relative paths
+        // (e.g. "ebooks/INDIAN_PHILOSOPHY%20Lewis.md" — the filename's literal
+        // space is encoded once). Re-encoding every segment would double-encode
+        // %XX into %%XX (e.g. %20 -> %2520) and make the route unresolvable in
+        // the GitHub repo, producing the 404. Keep the href as-is and only
+        // encode any genuinely raw (un-encoded) segments.
+        route = route.split('/').map(function (seg) {
+          return seg.indexOf('%') === -1 ? encodeURIComponent(seg) : seg;
+        }).join('/');
+        location.hash = '#/' + route;
         return;
       }
     }
