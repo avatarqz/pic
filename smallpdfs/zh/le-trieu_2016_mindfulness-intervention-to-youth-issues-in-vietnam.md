@@ -4,7 +4,7 @@
 
 **作者**：Le Trieu　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/le-trieu_2016_mindfulness-intervention-to-youth-issues-in-vietnam.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/le-trieu_2016_mindfulness-intervention-to-youth-issues-in-vietnam.pdf)
 
 ## 全文（机器翻译）
 

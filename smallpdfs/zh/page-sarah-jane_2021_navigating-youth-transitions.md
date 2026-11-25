@@ -4,7 +4,7 @@
 
 **作者**：Maud , Jovan　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/page-sarah-jane_2021_navigating-youth-transitions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/page-sarah-jane_2021_navigating-youth-transitions.pdf)
 
 ## 全文（机器翻译）
 

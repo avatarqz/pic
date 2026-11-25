@@ -4,7 +4,7 @@
 
 **作者**：Vecellio Daniel J Et Al　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/vecellio-daniel-j-et-al_2021_evaluating-35degc-wet-bulb-temperature.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/vecellio-daniel-j-et-al_2021_evaluating-35degc-wet-bulb-temperature.pdf)
 
 ## 全文（机器翻译）
 

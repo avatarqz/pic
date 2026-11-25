@@ -4,7 +4,7 @@
 
 **作者**：Oxford Centre for Buddhist Studies　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kuan-tsefu_2012_sectarian-affiliations-of-the-ea.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kuan-tsefu_2012_sectarian-affiliations-of-the-ea.pdf)
 
 ## 全文（机器翻译）
 

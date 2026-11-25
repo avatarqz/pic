@@ -4,7 +4,7 @@
 
 **作者**：Ashin Ottama　**年份**：1998
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ottama-ashin_1998_message-in-samsara.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ottama-ashin_1998_message-in-samsara.pdf)
 
 ## 全文（机器翻译）
 

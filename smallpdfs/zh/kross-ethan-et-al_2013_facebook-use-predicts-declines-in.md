@@ -4,7 +4,7 @@
 
 **作者**：Kross Ethan Et Al　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kross-ethan-et-al_2013_facebook-use-predicts-declines-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kross-ethan-et-al_2013_facebook-use-predicts-declines-in.pdf)
 
 ## 全文（机器翻译）
 

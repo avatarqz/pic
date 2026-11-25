@@ -4,7 +4,7 @@
 
 **作者**：The Chan Master Sheng Yen、His Holiness the 14th Dalai Lama　**年份**：2007　**出版者**：法鼓佛教學院
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/sheng-yen_2007_why-take-refuge.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/sheng-yen_2007_why-take-refuge.epub)
 
 
 ## 前文（机器翻译）

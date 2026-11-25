@@ -4,7 +4,7 @@
 
 **作者**：I.B. Horner
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/pli-tv.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/pli-tv.pdf)
 
 ## 全文（机器翻译）
 

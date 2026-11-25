@@ -4,7 +4,7 @@
 
 **作者**：Jigme Lingpa　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jigme-lingpa_2019_excellent-intention.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jigme-lingpa_2019_excellent-intention.pdf)
 
 ## 全文（机器翻译）
 

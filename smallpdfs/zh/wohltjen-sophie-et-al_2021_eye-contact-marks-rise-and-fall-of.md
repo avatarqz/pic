@@ -4,7 +4,7 @@
 
 **作者**：Wohltjen Sophie Et Al　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wohltjen-sophie-et-al_2021_eye-contact-marks-rise-and-fall-of.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wohltjen-sophie-et-al_2021_eye-contact-marks-rise-and-fall-of.pdf)
 
 ## 全文（机器翻译）
 

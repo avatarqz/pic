@@ -4,7 +4,7 @@
 
 **作者**：Nyanaponika Thera　**年份**：1963
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanaponika_1963_discourse-on-the-snake-simile.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanaponika_1963_discourse-on-the-snake-simile.pdf)
 
 ## 全文（机器翻译）
 

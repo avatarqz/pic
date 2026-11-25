@@ -4,7 +4,7 @@
 
 **作者**：Ireland　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ireland_2000_sal-an-alternative-buddhist-holy-tree.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ireland_2000_sal-an-alternative-buddhist-holy-tree.pdf)
 
 ## 全文（机器翻译）
 

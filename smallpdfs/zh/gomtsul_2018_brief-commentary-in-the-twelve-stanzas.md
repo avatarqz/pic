@@ -4,7 +4,7 @@
 
 **作者**：Gomtsul　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gomtsul_2018_brief-commentary-in-the-twelve-stanzas.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gomtsul_2018_brief-commentary-in-the-twelve-stanzas.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Jayasaro　**年份**：1999
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jayasaro_1999_buddhism-in-thailand.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jayasaro_1999_buddhism-in-thailand.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ñāṇamoli; Bhikkhu　**年份**：1999
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1999_in-his-own-words.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1999_in-his-own-words.pdf)
 
 ## 全文（机器翻译）
 

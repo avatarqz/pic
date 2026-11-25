@@ -4,7 +4,7 @@
 
 **作者**：Mahasi Sayadaw　**年份**：1980
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/mahasi_1980_purpose-of-meditation.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/mahasi_1980_purpose-of-meditation.epub)
 
 
 ## 前文（机器翻译）

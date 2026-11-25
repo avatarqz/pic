@@ -4,7 +4,7 @@
 
 **作者**：Klas Sandell (Ed.,)
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ecocrisis-perspectives.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ecocrisis-perspectives.pdf)
 
 ## 全文（机器翻译）
 

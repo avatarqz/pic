@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi　**年份**：1978
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bodhi_1978_nourishing-the-roots.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bodhi_1978_nourishing-the-roots.pdf)
 
 ## 全文（机器翻译）
 

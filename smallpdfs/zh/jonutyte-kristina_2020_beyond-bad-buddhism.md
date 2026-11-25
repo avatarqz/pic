@@ -4,7 +4,7 @@
 
 **作者**：Jovan Maud　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jonutyte-kristina_2020_beyond-bad-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jonutyte-kristina_2020_beyond-bad-buddhism.pdf)
 
 ## 全文（机器翻译）
 

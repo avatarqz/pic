@@ -4,7 +4,7 @@
 
 **作者**：Mariske Westendorp and Hannah Gould
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/refeminizing-death-westendorp-gould.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/refeminizing-death-westendorp-gould.pdf)
 
 ## 全文（机器翻译）
 

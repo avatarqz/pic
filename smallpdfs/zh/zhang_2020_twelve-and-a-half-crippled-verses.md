@@ -4,7 +4,7 @@
 
 **作者**：Zhang　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zhang_2020_twelve-and-a-half-crippled-verses.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zhang_2020_twelve-and-a-half-crippled-verses.pdf)
 
 ## 全文（机器翻译）
 

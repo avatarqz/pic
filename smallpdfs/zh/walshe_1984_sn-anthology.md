@@ -4,7 +4,7 @@
 
 **作者**：M. O'C. Walshe　**年份**：1984
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/walshe_1984_sn-anthology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/walshe_1984_sn-anthology.pdf)
 
 ## 全文（机器翻译）
 

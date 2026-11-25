@@ -4,7 +4,7 @@
 
 **作者**：Nyanamoli Thera　**年份**：1977　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/nyanamoli_1977_buddhas-words-on-kamma.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/nyanamoli_1977_buddhas-words-on-kamma.epub)
 
 
 ## 前文（机器翻译）

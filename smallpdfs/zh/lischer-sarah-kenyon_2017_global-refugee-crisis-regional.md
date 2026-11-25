@@ -4,7 +4,7 @@
 
 **作者**：Lischer Sarah Kenyon　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lischer-sarah-kenyon_2017_global-refugee-crisis-regional.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lischer-sarah-kenyon_2017_global-refugee-crisis-regional.pdf)
 
 ## 全文（机器翻译）
 

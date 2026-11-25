@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2022　**出版者**：ancient-buddhist-texts.net
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/anandajoti_2022_ja3%2Bcmy.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/anandajoti_2022_ja3%252Bcmy.epub)
 
 
 ## 前文（机器翻译）

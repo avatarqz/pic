@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Pasanno　**年份**：2007　**出版者**：Abhayagiri Monastery
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/pasanno_2007_dhamma-compass.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/pasanno_2007_dhamma-compass.epub)
 
 
 ## 前文（机器翻译）

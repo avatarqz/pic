@@ -4,7 +4,7 @@
 
 **作者**：Tarocco Francesca　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tarocco-francesca_2017_technologies-of-salvation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tarocco-francesca_2017_technologies-of-salvation.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Halafoff Anna Et Al　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/halafoff-anna-et-al_2022_buddhism-in-far-north-of-australia-preww2.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/halafoff-anna-et-al_2022_buddhism-in-far-north-of-australia-preww2.pdf)
 
 ## 全文（机器翻译）
 

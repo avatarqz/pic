@@ -4,7 +4,7 @@
 
 **作者**：Ñāṇamoli Thera　**年份**：1963
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1963_pathways-of-buddhist-thought-four-essays.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1963_pathways-of-buddhist-thought-four-essays.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Choong Mk　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/choong-mk_2018_entering-arising-affliction-rahula.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/choong-mk_2018_entering-arising-affliction-rahula.pdf)
 
 ## 全文（机器翻译）
 

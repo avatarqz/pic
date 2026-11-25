@@ -4,7 +4,7 @@
 
 **作者**：Master Sheng Yen　**年份**：1996　**出版者**：法鼓佛教學院
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/sheng-yen_1996_meaning-of-life.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/sheng-yen_1996_meaning-of-life.epub)
 
 
 ## 前文（机器翻译）

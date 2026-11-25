@@ -4,7 +4,7 @@
 
 **作者**：Karuna Kusalasaya　**年份**：1965
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/karuna-kusalasaya_1965_buddhism-in-thailand.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/karuna-kusalasaya_1965_buddhism-in-thailand.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：The Karmapa　**年份**：2020　**出版者**：Dharma Ebooks, KTD Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/karmapa_2020_finding-genuine-practice.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/karmapa_2020_finding-genuine-practice.epub)
 
 
 ## 前文（机器翻译）

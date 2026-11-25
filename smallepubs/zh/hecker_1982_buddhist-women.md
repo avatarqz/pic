@@ -5,7 +5,7 @@
 **作者**：Hellmuth Hecker
 and Sister Khemā (trans.)　**年份**：1982　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/hecker_1982_buddhist-women.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/hecker_1982_buddhist-women.epub)
 
 
 ## 前文（机器翻译）

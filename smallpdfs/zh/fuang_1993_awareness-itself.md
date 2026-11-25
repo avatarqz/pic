@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Fuang Jotiko　**年份**：1993
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/fuang_1993_awareness-itself.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/fuang_1993_awareness-itself.pdf)
 
 ## 全文（机器翻译）
 

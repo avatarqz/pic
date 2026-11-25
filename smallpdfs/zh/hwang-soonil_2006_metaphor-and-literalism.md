@@ -4,7 +4,7 @@
 
 **作者**：Allie　**年份**：2006
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hwang-soonil_2006_metaphor-and-literalism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hwang-soonil_2006_metaphor-and-literalism.pdf)
 
 ## 全文（机器翻译）
 

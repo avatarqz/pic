@@ -4,7 +4,7 @@
 
 **作者**：Mcara Sally Et Al　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mcara-sally-et-al_2022_buddhism-in-aotearoa-new-zealand.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mcara-sally-et-al_2022_buddhism-in-aotearoa-new-zealand.pdf)
 
 ## 全文（机器翻译）
 

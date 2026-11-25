@@ -4,7 +4,7 @@
 
 **作者**：ReadingFaithfully.org
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/king-in-the-forest.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/king-in-the-forest.epub)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：David Maurice　**年份**：1961　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/maurice-david_1961_ones-own-good.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/maurice-david_1961_ones-own-good.epub)
 
 
 ## 前文（机器翻译）

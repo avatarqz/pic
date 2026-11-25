@@ -4,7 +4,7 @@
 
 **作者**：Ven. Ajahn Chah　**年份**：1980　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/chah_1980_taste-of-freedom.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/chah_1980_taste-of-freedom.epub)
 
 
 ## 前文（机器翻译）

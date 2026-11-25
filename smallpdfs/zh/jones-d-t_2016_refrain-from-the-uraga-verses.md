@@ -4,7 +4,7 @@
 
 **作者**：Jones D T　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jones-d-t_2016_refrain-from-the-uraga-verses.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jones-d-t_2016_refrain-from-the-uraga-verses.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ṭhānissaro Bhikkhu　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geoff_2016_buddhas-teachings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geoff_2016_buddhas-teachings.pdf)
 
 ## 全文（机器翻译）
 

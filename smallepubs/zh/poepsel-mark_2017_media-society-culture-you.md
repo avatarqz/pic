@@ -4,7 +4,7 @@
 
 **作者**：Mark Poepsel　**年份**：2017
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/poepsel-mark_2017_media-society-culture-you.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/poepsel-mark_2017_media-society-culture-you.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Lama Yeshe Gyamtso　**年份**：2013　**出版者**：KTD Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/gyamtso-yeshe_2013_four-noble-truths.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/gyamtso-yeshe_2013_four-noble-truths.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Gaboude Louis　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gaboude-louis_1994_buddhadasas-contributions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gaboude-louis_1994_buddhadasas-contributions.pdf)
 
 ## 全文（机器翻译）
 

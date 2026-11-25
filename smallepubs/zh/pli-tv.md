@@ -4,7 +4,7 @@
 
 **作者**：I.B. Horner　**年份**：2014　**出版者**：SuttaCentral
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/pli-tv.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/pli-tv.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：M. O'C. Walshe　**年份**：1975
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/walshe_1975_buddhism-and-sex.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/walshe_1975_buddhism-and-sex.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Chang Gordon C　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chang-gordon-c_2023_revolution-and-witchcraft.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chang-gordon-c_2023_revolution-and-witchcraft.pdf)
 
 ## 全文（机器翻译）
 

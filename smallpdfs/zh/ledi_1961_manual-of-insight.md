@@ -4,7 +4,7 @@
 
 **作者**：Ledi Sayādaw　**年份**：1961
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ledi_1961_manual-of-insight.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ledi_1961_manual-of-insight.pdf)
 
 ## 全文（机器翻译）
 

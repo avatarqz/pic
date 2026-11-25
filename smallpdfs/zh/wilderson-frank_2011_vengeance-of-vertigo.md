@@ -4,7 +4,7 @@
 
 **作者**：Cliff Davidson　**年份**：2011
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wilderson-frank_2011_vengeance-of-vertigo.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wilderson-frank_2011_vengeance-of-vertigo.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Buddhadasa Bhikkhu　**年份**：1968
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/buddhadasa_1968_buddhadhamma-for-students.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/buddhadasa_1968_buddhadhamma-for-students.pdf)
 
 ## 全文（机器翻译）
 

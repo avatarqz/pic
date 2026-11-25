@@ -4,7 +4,7 @@
 
 **作者**：Gangshar　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gangshar_2018_advice-to-gok-zangden.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gangshar_2018_advice-to-gok-zangden.pdf)
 
 ## 全文（机器翻译）
 

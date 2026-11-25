@@ -4,7 +4,7 @@
 
 **作者**：Guy John　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/guy-john_2014_lost-kingdoms-hindu-buddhist-sculpture.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/guy-john_2014_lost-kingdoms-hindu-buddhist-sculpture.pdf)
 
 ## 全文（机器翻译）
 

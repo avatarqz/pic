@@ -4,7 +4,7 @@
 
 **作者**：Milena Popova;　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/popova_2019_sexual-consent.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/popova_2019_sexual-consent.pdf)
 
 ## 全文（机器翻译）
 

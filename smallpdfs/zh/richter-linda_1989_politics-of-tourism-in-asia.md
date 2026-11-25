@@ -4,7 +4,7 @@
 
 **作者**：Richter Linda　**年份**：1989
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/richter-linda_1989_politics-of-tourism-in-asia.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/richter-linda_1989_politics-of-tourism-in-asia.pdf)
 
 ## 全文（机器翻译）
 

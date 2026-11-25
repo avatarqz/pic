@@ -4,7 +4,7 @@
 
 **作者**：Karuna Kusalasaya　**年份**：1965　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/karuna-kusalasaya_1965_buddhism-in-thailand.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/karuna-kusalasaya_1965_buddhism-in-thailand.epub)
 
 
 ## 前文（机器翻译）

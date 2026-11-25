@@ -4,7 +4,7 @@
 
 **作者**：Sakyasribhadra　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sakyasribhadra_2012_refuge-bodhicitta.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sakyasribhadra_2012_refuge-bodhicitta.pdf)
 
 ## 全文（机器翻译）
 

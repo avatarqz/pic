@@ -4,7 +4,7 @@
 
 **作者**：Ken Jones　**年份**：1981
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jones-ken_1981_buddhism-and-social-action.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jones-ken_1981_buddhism-and-social-action.pdf)
 
 ## 全文（机器翻译）
 

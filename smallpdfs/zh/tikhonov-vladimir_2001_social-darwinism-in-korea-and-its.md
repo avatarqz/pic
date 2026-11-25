@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2001
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tikhonov-vladimir_2001_social-darwinism-in-korea-and-its.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tikhonov-vladimir_2001_social-darwinism-in-korea-and-its.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Silk Jonathan A　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/silk-jonathan-a_2007_bauddhavacana-notes-on-buddhist.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/silk-jonathan-a_2007_bauddhavacana-notes-on-buddhist.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Chokyi Lodro　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chokyi-lodro_2022_for-nubla-chopel.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chokyi-lodro_2022_for-nubla-chopel.pdf)
 
 ## 全文（机器翻译）
 

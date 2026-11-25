@@ -4,7 +4,7 @@
 
 **作者**：Gyatso Chokyi Dongak　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gyatso-chokyi-dongak_2014_memorandum-mahamudra-dzogchen.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gyatso-chokyi-dongak_2014_memorandum-mahamudra-dzogchen.pdf)
 
 ## 全文（机器翻译）
 

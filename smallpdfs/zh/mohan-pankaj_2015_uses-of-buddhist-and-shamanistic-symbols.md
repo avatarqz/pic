@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mohan-pankaj_2015_uses-of-buddhist-and-shamanistic-symbols.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mohan-pankaj_2015_uses-of-buddhist-and-shamanistic-symbols.pdf)
 
 ## 全文（机器翻译）
 

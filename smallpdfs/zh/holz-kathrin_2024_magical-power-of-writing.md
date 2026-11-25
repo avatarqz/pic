@@ -4,7 +4,7 @@
 
 **作者**：Holz Kathrin　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/holz-kathrin_2024_magical-power-of-writing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/holz-kathrin_2024_magical-power-of-writing.pdf)
 
 ## 全文（机器翻译）
 

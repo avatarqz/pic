@@ -4,7 +4,7 @@
 
 **作者**：Gangshat　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gangshat_2005_naturally-liberating-whatever.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gangshat_2005_naturally-liberating-whatever.pdf)
 
 ## 全文（机器翻译）
 

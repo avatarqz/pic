@@ -4,7 +4,7 @@
 
 **作者**：LawIT　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/engel-david_2009_landscapes-of-law.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/engel-david_2009_landscapes-of-law.pdf)
 
 ## 全文（机器翻译）
 

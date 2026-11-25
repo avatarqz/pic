@@ -4,7 +4,7 @@
 
 **作者**：Mipham　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mipham_2020_freedom-from-al-adversity.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mipham_2020_freedom-from-al-adversity.pdf)
 
 ## 全文（机器翻译）
 

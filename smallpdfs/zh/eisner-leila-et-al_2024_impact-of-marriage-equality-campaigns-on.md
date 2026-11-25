@@ -4,7 +4,7 @@
 
 **作者**：Eisner Leila Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/eisner-leila-et-al_2024_impact-of-marriage-equality-campaigns-on.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/eisner-leila-et-al_2024_impact-of-marriage-equality-campaigns-on.pdf)
 
 ## 全文（机器翻译）
 

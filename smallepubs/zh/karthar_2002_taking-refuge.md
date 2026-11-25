@@ -4,7 +4,7 @@
 
 **作者**：Khenpo Karthar Rinpoche　**年份**：2002　**出版者**：KTD Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/karthar_2002_taking-refuge.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/karthar_2002_taking-refuge.epub)
 
 ## 全文（机器翻译）
 

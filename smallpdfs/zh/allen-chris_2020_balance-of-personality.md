@@ -4,7 +4,7 @@
 
 **作者**：Chris Allen　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/allen-chris_2020_balance-of-personality.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/allen-chris_2020_balance-of-personality.pdf)
 
 > 本译文为机器翻译全文，供学习参考；如与原意有出入，以原文为准。
 

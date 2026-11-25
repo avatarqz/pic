@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi (Ed.)　**年份**：1990
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bodhi-et-al_1990_dana.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bodhi-et-al_1990_dana.pdf)
 
 ## 全文（机器翻译）
 

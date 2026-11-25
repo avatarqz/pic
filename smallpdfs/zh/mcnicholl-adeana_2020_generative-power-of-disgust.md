@@ -4,7 +4,7 @@
 
 **作者**：Mcnicholl Adeana　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mcnicholl-adeana_2020_generative-power-of-disgust.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mcnicholl-adeana_2020_generative-power-of-disgust.pdf)
 
 ## 全文（机器翻译）
 

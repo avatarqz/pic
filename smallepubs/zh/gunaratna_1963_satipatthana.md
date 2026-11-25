@@ -4,7 +4,7 @@
 
 **作者**：V.F. Gunaratna　**年份**：1963　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/gunaratna_1963_satipatthana.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/gunaratna_1963_satipatthana.epub)
 
 
 ## 前文（机器翻译）

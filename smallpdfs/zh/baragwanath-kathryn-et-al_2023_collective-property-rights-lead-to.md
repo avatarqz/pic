@@ -4,7 +4,7 @@
 
 **作者**：Baragwanath Kathryn Et Al　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/baragwanath-kathryn-et-al_2023_collective-property-rights-lead-to.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/baragwanath-kathryn-et-al_2023_collective-property-rights-lead-to.pdf)
 
 ## 全文（机器翻译）
 

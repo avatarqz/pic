@@ -4,7 +4,7 @@
 
 **作者**：Narada Thera and Kassapa Bhikkhu　**年份**：1963
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/narada-kassapa_1963_mirror-of-the-dhamma.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/narada-kassapa_1963_mirror-of-the-dhamma.pdf)
 
 ## 全文（机器翻译）
 

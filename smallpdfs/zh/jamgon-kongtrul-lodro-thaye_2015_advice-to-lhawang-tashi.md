@@ -4,7 +4,7 @@
 
 **作者**：Jamgon Kongtrul Lodro Thaye　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jamgon-kongtrul-lodro-thaye_2015_advice-to-lhawang-tashi.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jamgon-kongtrul-lodro-thaye_2015_advice-to-lhawang-tashi.pdf)
 
 ## 全文（机器翻译）
 

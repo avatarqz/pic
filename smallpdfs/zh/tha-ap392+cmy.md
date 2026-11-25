@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tha-ap392+cmy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tha-ap392%2Bcmy.pdf)
 
 ## 全文（机器翻译）
 

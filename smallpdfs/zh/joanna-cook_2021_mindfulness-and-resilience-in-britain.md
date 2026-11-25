@@ -4,7 +4,7 @@
 
 **作者**：Joanna Cook　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/joanna-cook_2021_mindfulness-and-resilience-in-britain.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/joanna-cook_2021_mindfulness-and-resilience-in-britain.pdf)
 
 ## 全文（机器翻译）
 

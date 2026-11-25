@@ -4,7 +4,7 @@
 
 **作者**：Harvey　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/harvey_2014_nature-of-the-ariya-magga.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/harvey_2014_nature-of-the-ariya-magga.pdf)
 
 ## 全文（机器翻译）
 

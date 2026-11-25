@@ -4,7 +4,7 @@
 
 **作者**：Madsen Richard　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/madsen-richard_2019_practice-not-dogma.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/madsen-richard_2019_practice-not-dogma.pdf)
 
 ## 全文（机器翻译）
 

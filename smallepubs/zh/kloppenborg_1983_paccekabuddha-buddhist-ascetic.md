@@ -4,7 +4,7 @@
 
 **作者**：Ria Kloppenborg　**年份**：1983　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/kloppenborg_1983_paccekabuddha-buddhist-ascetic.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/kloppenborg_1983_paccekabuddha-buddhist-ascetic.epub)
 
 
 ## 前文（机器翻译）

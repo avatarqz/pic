@@ -4,7 +4,7 @@
 
 **作者**：Nietupski Paul　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nietupski-paul_2012_atha-niryanavrttam.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nietupski-paul_2012_atha-niryanavrttam.pdf)
 
 ## 全文（机器翻译）
 

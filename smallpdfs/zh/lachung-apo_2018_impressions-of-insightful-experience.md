@@ -4,7 +4,7 @@
 
 **作者**：Lachung Apo　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lachung-apo_2018_impressions-of-insightful-experience.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lachung-apo_2018_impressions-of-insightful-experience.pdf)
 
 ## 全文（机器翻译）
 

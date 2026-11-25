@@ -4,7 +4,7 @@
 
 **作者**：Chris Allen　**年份**：2020　**出版者**：Portland State University Library
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/allen-chris_2020_balance-of-personality.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/allen-chris_2020_balance-of-personality.epub)
 
 ## 全文（机器翻译）
 

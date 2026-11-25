@@ -4,7 +4,7 @@
 
 **作者**：Jamgon Mipam　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jamgon-mipam_2019_profound-samatha-instructions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jamgon-mipam_2019_profound-samatha-instructions.pdf)
 
 ## 全文（机器翻译）
 

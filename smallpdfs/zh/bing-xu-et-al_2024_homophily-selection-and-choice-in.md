@@ -4,7 +4,7 @@
 
 **作者**：Bing Xu Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bing-xu-et-al_2024_homophily-selection-and-choice-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bing-xu-et-al_2024_homophily-selection-and-choice-in.pdf)
 
 ## 全文（机器翻译）
 

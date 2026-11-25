@@ -4,7 +4,7 @@
 
 **作者**：T. B. Karunaratne　**年份**：1969
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/karunaratne_1969_buddhist-wheel-symbol.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/karunaratne_1969_buddhist-wheel-symbol.pdf)
 
 ## 全文（机器翻译）
 

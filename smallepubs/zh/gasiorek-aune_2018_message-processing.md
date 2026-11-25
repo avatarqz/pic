@@ -4,7 +4,7 @@
 
 **作者**：Jessica Gasiorek　**年份**：2018
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/gasiorek-aune_2018_message-processing.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/gasiorek-aune_2018_message-processing.epub)
 
 
 ## 前文（机器翻译）

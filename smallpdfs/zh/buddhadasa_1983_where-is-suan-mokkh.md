@@ -4,7 +4,7 @@
 
 **作者**：Buddhadasa　**年份**：1983
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/buddhadasa_1983_where-is-suan-mokkh.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/buddhadasa_1983_where-is-suan-mokkh.pdf)
 
 ## 全文（机器翻译）
 

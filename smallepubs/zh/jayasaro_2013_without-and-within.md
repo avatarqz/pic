@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Jayasaro　**年份**：2013
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jayasaro_2013_without-and-within.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jayasaro_2013_without-and-within.epub)
 
 
 ## 前文（机器翻译）

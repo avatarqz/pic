@@ -4,7 +4,7 @@
 
 **作者**：Khakhyab Dorje　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/khakhyab-dorje_2020_advice-for-urgyen-tsomo.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/khakhyab-dorje_2020_advice-for-urgyen-tsomo.pdf)
 
 ## 全文（机器翻译）
 

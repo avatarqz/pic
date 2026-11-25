@@ -4,7 +4,7 @@
 
 **作者**：Wentworth Bob　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wentworth-bob_2019_pain-lasers-love-lasers.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wentworth-bob_2019_pain-lasers-love-lasers.pdf)
 
 ## 全文（机器翻译）
 

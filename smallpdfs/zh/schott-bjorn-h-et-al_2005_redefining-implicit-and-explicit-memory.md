@@ -4,7 +4,7 @@
 
 **作者**：Schott Bjorn H Et Al　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/schott-bjorn-h-et-al_2005_redefining-implicit-and-explicit-memory.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/schott-bjorn-h-et-al_2005_redefining-implicit-and-explicit-memory.pdf)
 
 ## 全文（机器翻译）
 

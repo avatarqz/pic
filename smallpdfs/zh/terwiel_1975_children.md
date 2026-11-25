@@ -4,7 +4,7 @@
 
 **作者**：Terwiel　**年份**：1975
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/terwiel_1975_children.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/terwiel_1975_children.pdf)
 
 ## 全文（机器翻译）
 

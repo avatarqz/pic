@@ -4,7 +4,7 @@
 
 **作者**：Francis Story　**年份**：1964
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/story-francis_1964_place-of-animals-in-buddhism.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/story-francis_1964_place-of-animals-in-buddhism.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：admin　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hinuber-oskar_2009_cremated-like-a-king.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hinuber-oskar_2009_cremated-like-a-king.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ashin Ottama　**年份**：1998　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/ottama-ashin_1998_message-in-samsara.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/ottama-ashin_1998_message-in-samsara.epub)
 
 
 ## 前文（机器翻译）

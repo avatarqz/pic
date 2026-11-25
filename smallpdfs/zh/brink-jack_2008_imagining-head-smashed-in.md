@@ -4,7 +4,7 @@
 
 **作者**：Jack W. Brink　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/brink-jack_2008_imagining-head-smashed-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/brink-jack_2008_imagining-head-smashed-in.pdf)
 
 ## 全文（机器翻译）
 

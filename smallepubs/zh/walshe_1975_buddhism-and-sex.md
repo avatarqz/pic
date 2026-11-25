@@ -4,7 +4,7 @@
 
 **作者**：M. O'C. Walshe　**年份**：1975　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/walshe_1975_buddhism-and-sex.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/walshe_1975_buddhism-and-sex.epub)
 
 
 ## 前文（机器翻译）

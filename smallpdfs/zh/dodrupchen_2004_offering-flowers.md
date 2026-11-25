@@ -4,7 +4,7 @@
 
 **作者**：Dodrupchen　**年份**：2004
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dodrupchen_2004_offering-flowers.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dodrupchen_2004_offering-flowers.pdf)
 
 ## 全文（机器翻译）
 

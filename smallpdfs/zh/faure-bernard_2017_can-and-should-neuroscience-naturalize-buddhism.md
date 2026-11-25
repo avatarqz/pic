@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/faure-bernard_2017_can-and-should-neuroscience-naturalize-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/faure-bernard_2017_can-and-should-neuroscience-naturalize-buddhism.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：user　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/pasanno_2007_dhamma-compass.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/pasanno_2007_dhamma-compass.pdf)
 
 ## 全文（机器翻译）
 

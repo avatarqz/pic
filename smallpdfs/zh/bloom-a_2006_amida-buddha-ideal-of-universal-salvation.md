@@ -4,7 +4,7 @@
 
 **作者**：Ardith　**年份**：2006
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bloom-a_2006_amida-buddha-ideal-of-universal-salvation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bloom-a_2006_amida-buddha-ideal-of-universal-salvation.pdf)
 
 ## 全文（机器翻译）
 

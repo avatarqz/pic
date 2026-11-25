@@ -4,7 +4,7 @@
 
 **作者**：CJBS　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/li-rebecca_2020_agents-of-change.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/li-rebecca_2020_agents-of-change.pdf)
 
 ## 全文（机器翻译）
 

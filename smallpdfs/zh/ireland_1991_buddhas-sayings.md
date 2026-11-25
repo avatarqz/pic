@@ -4,7 +4,7 @@
 
 **作者**：Ireland　**年份**：1991
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ireland_1991_buddhas-sayings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ireland_1991_buddhas-sayings.pdf)
 
 ## 全文（机器翻译）
 

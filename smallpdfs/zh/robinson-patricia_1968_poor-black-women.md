@@ -4,7 +4,7 @@
 
 **作者**：Robinson Patricia　**年份**：1968
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/robinson-patricia_1968_poor-black-women.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/robinson-patricia_1968_poor-black-women.pdf)
 
 ## 全文（机器翻译）
 

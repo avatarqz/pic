@@ -4,7 +4,7 @@
 
 **作者**：Taylor Et Al　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/taylor-et-al_2013_impact-of-meditation-on-the-default-mode-network.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/taylor-et-al_2013_impact-of-meditation-on-the-default-mode-network.pdf)
 
 ## 全文（机器翻译）
 

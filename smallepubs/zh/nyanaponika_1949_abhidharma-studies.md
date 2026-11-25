@@ -4,7 +4,7 @@
 
 **作者**：Venerable Nyanaponika Thera　**年份**：1949　**出版者**：Wisdom Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/nyanaponika_1949_abhidharma-studies.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/nyanaponika_1949_abhidharma-studies.epub)
 
 
 ## 前文（机器翻译）

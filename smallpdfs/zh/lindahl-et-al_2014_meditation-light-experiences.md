@@ -4,7 +4,7 @@
 
 **作者**：Willoughby B. Britton　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lindahl-et-al_2014_meditation-light-experiences.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lindahl-et-al_2014_meditation-light-experiences.pdf)
 
 ## 全文（机器翻译）
 

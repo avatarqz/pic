@@ -4,7 +4,7 @@
 
 **作者**：Wilson Jeff　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wilson-jeff_2022_pennies-from-the-pure-land.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wilson-jeff_2022_pennies-from-the-pure-land.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Dwivedi Kedar　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dwivedi-kedar_1994_meditation-in-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dwivedi-kedar_1994_meditation-in-buddhism.pdf)
 
 ## 全文（机器翻译）
 

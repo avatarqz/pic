@@ -4,7 +4,7 @@
 
 **作者**：sadhu　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hecker_2009_similes-of-the-buddha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hecker_2009_similes-of-the-buddha.pdf)
 
 ## 全文（机器翻译）
 

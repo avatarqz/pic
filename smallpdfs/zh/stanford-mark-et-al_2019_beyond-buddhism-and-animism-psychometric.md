@@ -4,7 +4,7 @@
 
 **作者**：Mark Stanford, Jonathan Jong　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stanford-mark-et-al_2019_beyond-buddhism-and-animism-psychometric.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stanford-mark-et-al_2019_beyond-buddhism-and-animism-psychometric.pdf)
 
 ## 全文（机器翻译）
 

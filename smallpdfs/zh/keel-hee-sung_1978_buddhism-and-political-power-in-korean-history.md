@@ -4,7 +4,7 @@
 
 **作者**：Keel, Hee-Sung　**年份**：1978
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/keel-hee-sung_1978_buddhism-and-political-power-in-korean-history.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/keel-hee-sung_1978_buddhism-and-political-power-in-korean-history.pdf)
 
 ## 全文（机器翻译）
 

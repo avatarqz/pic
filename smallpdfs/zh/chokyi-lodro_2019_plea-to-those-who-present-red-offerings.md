@@ -4,7 +4,7 @@
 
 **作者**：Chokyi Lodro　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chokyi-lodro_2019_plea-to-those-who-present-red-offerings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chokyi-lodro_2019_plea-to-those-who-present-red-offerings.pdf)
 
 ## 全文（机器翻译）
 

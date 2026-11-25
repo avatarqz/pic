@@ -4,7 +4,7 @@
 
 **作者**：Nahathai Wongpakaran, Phurich Pooriwarangkakul, Nadnipa Suwannachot, Zsuzsanna Mirnics, Zsuzsanna Kövi, Tinakon Wongpakaran　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wongpakaran-nahathai-et-al_2022_moderating-role-of-observing-five.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wongpakaran-nahathai-et-al_2022_moderating-role-of-observing-five.pdf)
 
 ## 全文（机器翻译）
 

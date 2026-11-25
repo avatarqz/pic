@@ -4,7 +4,7 @@
 
 **作者**：ochuko omadoye　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/liong-cheng_2012_laughing-buddha-doing-business.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/liong-cheng_2012_laughing-buddha-doing-business.pdf)
 
 ## 全文（机器翻译）
 

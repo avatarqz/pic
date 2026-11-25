@@ -4,7 +4,7 @@
 
 **作者**：admin　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/salomon-richard_2022_hoard-of-inscribed-gandharan-metalware.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/salomon-richard_2022_hoard-of-inscribed-gandharan-metalware.pdf)
 
 ## 全文（机器翻译）
 

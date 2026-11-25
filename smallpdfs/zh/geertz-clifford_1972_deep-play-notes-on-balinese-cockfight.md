@@ -4,7 +4,7 @@
 
 **作者**：pbendell　**年份**：1972
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geertz-clifford_1972_deep-play-notes-on-balinese-cockfight.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geertz-clifford_1972_deep-play-notes-on-balinese-cockfight.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Gombrich　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gombrich_2019_pali.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gombrich_2019_pali.pdf)
 
 ## 全文（机器翻译）
 

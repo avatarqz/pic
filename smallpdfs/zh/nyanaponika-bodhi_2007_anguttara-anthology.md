@@ -4,7 +4,7 @@
 
 **作者**：sadhu　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanaponika-bodhi_2007_anguttara-anthology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanaponika-bodhi_2007_anguttara-anthology.pdf)
 
 ## 全文（机器翻译）
 

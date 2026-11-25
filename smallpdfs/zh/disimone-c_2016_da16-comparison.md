@@ -4,7 +4,7 @@
 
 **作者**：Disimone C　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/disimone-c_2016_da16-comparison.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/disimone-c_2016_da16-comparison.pdf)
 
 ## 全文（机器翻译）
 

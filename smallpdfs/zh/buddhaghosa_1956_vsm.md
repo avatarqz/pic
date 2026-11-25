@@ -4,7 +4,7 @@
 
 **作者**：Buddhaghosa　**年份**：1956
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/buddhaghosa_1956_vsm.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/buddhaghosa_1956_vsm.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Brahm　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/brahm_2021_opening-up-to-kindfulness.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/brahm_2021_opening-up-to-kindfulness.pdf)
 
 ## 全文（机器翻译）
 

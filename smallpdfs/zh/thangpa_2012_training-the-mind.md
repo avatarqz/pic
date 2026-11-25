@@ -4,7 +4,7 @@
 
 **作者**：Thangpa　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/thangpa_2012_training-the-mind.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/thangpa_2012_training-the-mind.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Michael Wesch　**年份**：2018　**出版者**：New Prairie Press
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/wesch-m_2018_art-of-being-human.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/wesch-m_2018_art-of-being-human.epub)
 
 
 ## 前文（机器翻译）

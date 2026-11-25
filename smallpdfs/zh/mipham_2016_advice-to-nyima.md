@@ -4,7 +4,7 @@
 
 **作者**：Mipham　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mipham_2016_advice-to-nyima.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mipham_2016_advice-to-nyima.pdf)
 
 ## 全文（机器翻译）
 

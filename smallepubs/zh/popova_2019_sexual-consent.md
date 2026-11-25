@@ -4,7 +4,7 @@
 
 **作者**：Milena Popova　**年份**：2019　**出版者**：The MIT Press
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/popova_2019_sexual-consent.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/popova_2019_sexual-consent.epub)
 
 
 ## 前文（机器翻译）

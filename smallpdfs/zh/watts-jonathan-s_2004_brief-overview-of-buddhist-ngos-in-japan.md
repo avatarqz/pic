@@ -4,7 +4,7 @@
 
 **作者**：Watts Jonathan S　**年份**：2004
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/watts-jonathan-s_2004_brief-overview-of-buddhist-ngos-in-japan.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/watts-jonathan-s_2004_brief-overview-of-buddhist-ngos-in-japan.pdf)
 
 ## 全文（机器翻译）
 

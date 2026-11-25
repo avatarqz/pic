@@ -4,7 +4,7 @@
 
 **作者**：Yuttadhammo Bhikkhu　**年份**：2009　**出版者**：Sirimangalo International
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/yuttadhammo_2009_how-to-meditate.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/yuttadhammo_2009_how-to-meditate.epub)
 
 
 ## 前文（机器翻译）

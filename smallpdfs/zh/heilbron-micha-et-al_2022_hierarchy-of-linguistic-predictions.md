@@ -4,7 +4,7 @@
 
 **作者**：Heilbron Micha Et Al　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/heilbron-micha-et-al_2022_hierarchy-of-linguistic-predictions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/heilbron-micha-et-al_2022_hierarchy-of-linguistic-predictions.pdf)
 
 ## 全文（机器翻译）
 

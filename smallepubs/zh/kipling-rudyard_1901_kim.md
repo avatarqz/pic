@@ -4,7 +4,7 @@
 
 **作者**：Rudyard Kipling　**年份**：1901　**出版者**：Standard Ebooks
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/kipling-rudyard_1901_kim.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/kipling-rudyard_1901_kim.epub)
 
 
 ## 前文（机器翻译）

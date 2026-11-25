@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/anandajoti_2016_thai-chanting.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/anandajoti_2016_thai-chanting.pdf)
 
 ## 全文（机器翻译）
 

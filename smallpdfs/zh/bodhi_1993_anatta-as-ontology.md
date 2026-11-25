@@ -4,7 +4,7 @@
 
 **作者**：Bodhi　**年份**：1993
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bodhi_1993_anatta-as-ontology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bodhi_1993_anatta-as-ontology.pdf)
 
 ## 全文（机器翻译）
 

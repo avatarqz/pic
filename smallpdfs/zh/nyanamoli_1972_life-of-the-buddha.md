@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Nanamoli　**年份**：1972
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1972_life-of-the-buddha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1972_life-of-the-buddha.pdf)
 
 ## 全文（机器翻译）
 

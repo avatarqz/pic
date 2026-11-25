@@ -4,7 +4,7 @@
 
 **作者**：Michel J. Wilson　**年份**：2003
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/shoji-rafael_2003_buddhism-in-syncretic-shape.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/shoji-rafael_2003_buddhism-in-syncretic-shape.pdf)
 
 ## 全文（机器翻译）
 

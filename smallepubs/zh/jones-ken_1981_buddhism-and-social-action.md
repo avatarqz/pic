@@ -4,7 +4,7 @@
 
 **作者**：Ken Jones　**年份**：1981　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jones-ken_1981_buddhism-and-social-action.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jones-ken_1981_buddhism-and-social-action.epub)
 
 
 ## 前文（机器翻译）

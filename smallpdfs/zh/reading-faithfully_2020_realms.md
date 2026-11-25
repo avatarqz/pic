@@ -4,7 +4,7 @@
 
 **作者**：Reading Faithfully　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/reading-faithfully_2020_realms.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/reading-faithfully_2020_realms.pdf)
 
 ## 全文（机器翻译）
 

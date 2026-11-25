@@ -4,7 +4,7 @@
 
 **作者**：Holt, John C.　**年份**：1982
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/holt-john_1982_pilgrimage-and-the-structure-of-sinhalese-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/holt-john_1982_pilgrimage-and-the-structure-of-sinhalese-buddhism.pdf)
 
 ## 全文（机器翻译）
 

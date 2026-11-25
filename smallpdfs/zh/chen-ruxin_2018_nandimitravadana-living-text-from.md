@@ -4,7 +4,7 @@
 
 **作者**：macbook pro　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chen-ruxin_2018_nandimitravadana-living-text-from.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chen-ruxin_2018_nandimitravadana-living-text-from.pdf)
 
 ## 全文（机器翻译）
 

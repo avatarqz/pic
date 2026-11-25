@@ -4,7 +4,7 @@
 
 **作者**：Loy Kao　**年份**：2010
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/loy-kao_2010_healing-ecology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/loy-kao_2010_healing-ecology.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ireland　**年份**：1981
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ireland_1981_sn-anthology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ireland_1981_sn-anthology.pdf)
 
 ## 全文（机器翻译）
 

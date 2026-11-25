@@ -4,7 +4,7 @@
 
 **作者**：Jiyun　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jiyun_2019_faxian-and-the-establishment-of-quifa.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jiyun_2019_faxian-and-the-establishment-of-quifa.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Thanissaro Bhikkhu　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geoff_2013_recognizing-the-dhamma.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geoff_2013_recognizing-the-dhamma.pdf)
 
 ## 全文（机器翻译）
 

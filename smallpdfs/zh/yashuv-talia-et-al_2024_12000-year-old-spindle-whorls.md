@@ -4,7 +4,7 @@
 
 **作者**：Talia Yashuv, Leore Grosman　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/yashuv-talia-et-al_2024_12000-year-old-spindle-whorls.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/yashuv-talia-et-al_2024_12000-year-old-spindle-whorls.pdf)
 
 ## 全文（机器翻译）
 

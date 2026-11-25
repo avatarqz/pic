@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhunī Dhammadinnā　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammadinna_2021_bhiksuni-sailas-rebuttal-of-maras.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammadinna_2021_bhiksuni-sailas-rebuttal-of-maras.pdf)
 
 ## 全文（机器翻译）
 

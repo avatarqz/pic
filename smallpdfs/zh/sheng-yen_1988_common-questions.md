@@ -4,7 +4,7 @@
 
 **作者**：Master Sheng Yen　**年份**：1988
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sheng-yen_1988_common-questions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sheng-yen_1988_common-questions.pdf)
 
 ## 全文（机器翻译）
 

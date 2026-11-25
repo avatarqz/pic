@@ -4,7 +4,7 @@
 
 **作者**：itmonk　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/pasanno-amaro_2009_island.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/pasanno-amaro_2009_island.pdf)
 
 ## 全文（机器翻译）
 

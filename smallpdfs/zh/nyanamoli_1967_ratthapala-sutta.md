@@ -4,7 +4,7 @@
 
 **作者**：Ñāṇamoli Thera　**年份**：1967
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1967_ratthapala-sutta.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1967_ratthapala-sutta.pdf)
 
 ## 全文（机器翻译）
 

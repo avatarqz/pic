@@ -4,7 +4,7 @@
 
 **作者**：A. G. S. Kariyawasam　**年份**：1995　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/kariyawasam-a-g-s_1995_buddhist-ceremonies-and-rituals-sri-lanka.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/kariyawasam-a-g-s_1995_buddhist-ceremonies-and-rituals-sri-lanka.epub)
 
 
 ## 前文（机器翻译）

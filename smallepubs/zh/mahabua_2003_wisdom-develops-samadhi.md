@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Maha Boowa Ñanasampanno　**年份**：2003　**出版者**：Forest Dhamma Books
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/mahabua_2003_wisdom-develops-samadhi.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/mahabua_2003_wisdom-develops-samadhi.epub)
 
 
 ## 前文（机器翻译）

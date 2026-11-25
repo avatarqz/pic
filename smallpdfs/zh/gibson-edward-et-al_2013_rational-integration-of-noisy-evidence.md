@@ -4,7 +4,7 @@
 
 **作者**：Gibson Edward Et Al　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gibson-edward-et-al_2013_rational-integration-of-noisy-evidence.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gibson-edward-et-al_2013_rational-integration-of-noisy-evidence.pdf)
 
 ## 全文（机器翻译）
 

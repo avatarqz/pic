@@ -4,7 +4,7 @@
 
 **作者**：Piyananda　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/piyananda_2018_sharing-buddhism-in-the-west.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/piyananda_2018_sharing-buddhism-in-the-west.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Chan Khoon San　**年份**：2002
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chan-ks_2002_buddhist-pilgrimage.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chan-ks_2002_buddhist-pilgrimage.pdf)
 
 ## 全文（机器翻译）
 

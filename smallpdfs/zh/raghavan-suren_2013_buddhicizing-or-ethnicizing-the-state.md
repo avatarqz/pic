@@ -4,7 +4,7 @@
 
 **作者**：Oxford Centre for Buddhist Studies　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/raghavan-suren_2013_buddhicizing-or-ethnicizing-the-state.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/raghavan-suren_2013_buddhicizing-or-ethnicizing-the-state.pdf)
 
 ## 全文（机器翻译）
 

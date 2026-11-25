@@ -4,7 +4,7 @@
 
 **作者**：Buddhadasa Indapanno Archives　**年份**：1983　**出版者**：Buddhadasa Indapanno Archives
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/buddhadasa_1983_where-is-suan-mokkh.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/buddhadasa_1983_where-is-suan-mokkh.epub)
 
 
 ## 前文（机器翻译）

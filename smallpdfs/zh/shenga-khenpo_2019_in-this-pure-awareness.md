@@ -4,7 +4,7 @@
 
 **作者**：Shenga Khenpo　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/shenga-khenpo_2019_in-this-pure-awareness.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/shenga-khenpo_2019_in-this-pure-awareness.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Nyanaponika Thera　**年份**：1949
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanaponika_1949_abhidharma-studies.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanaponika_1949_abhidharma-studies.pdf)
 
 ## 全文（机器翻译）
 

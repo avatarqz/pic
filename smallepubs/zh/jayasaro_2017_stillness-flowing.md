@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Jayasaro　**年份**：2017
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jayasaro_2017_stillness-flowing.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jayasaro_2017_stillness-flowing.epub)
 
 
 ## 前文（机器翻译）

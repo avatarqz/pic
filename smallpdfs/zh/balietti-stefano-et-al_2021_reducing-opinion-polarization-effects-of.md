@@ -4,7 +4,7 @@
 
 **作者**：Balietti Stefano Et Al　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/balietti-stefano-et-al_2021_reducing-opinion-polarization-effects-of.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/balietti-stefano-et-al_2021_reducing-opinion-polarization-effects-of.pdf)
 
 ## 全文（机器翻译）
 

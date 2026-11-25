@@ -4,7 +4,7 @@
 
 **作者**：dpm5h　**年份**：2001
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/fenn-mavis-l_2001_teaching-buddhism-in-west.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/fenn-mavis-l_2001_teaching-buddhism-in-west.pdf)
 
 ## 全文（机器翻译）
 

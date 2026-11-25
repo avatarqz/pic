@@ -4,7 +4,7 @@
 
 **作者**：Molly Carnes, Eve Fine, Jennifer Sheridan　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/carnes-fine-sheridan_2019_diversity-statements.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/carnes-fine-sheridan_2019_diversity-statements.pdf)
 
 ## 全文（机器翻译）
 

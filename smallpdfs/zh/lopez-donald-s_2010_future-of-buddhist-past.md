@@ -4,7 +4,7 @@
 
 **作者**：Peggy Blomenberg　**年份**：2010
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lopez-donald-s_2010_future-of-buddhist-past.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lopez-donald-s_2010_future-of-buddhist-past.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ratna Handurukande　**年份**：1991
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/handarukande-ratna_1991_tales-from-sanskrit.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/handarukande-ratna_1991_tales-from-sanskrit.pdf)
 
 ## 全文（机器翻译）
 

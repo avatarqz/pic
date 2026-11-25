@@ -4,7 +4,7 @@
 
 **作者**：Todd May　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/may-todd_2012_power.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/may-todd_2012_power.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Xu Jian Et Al　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/xu-jian-et-al_2009_symbolic-gestures-and-spoken-language.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/xu-jian-et-al_2009_symbolic-gestures-and-spoken-language.pdf)
 
 ## 全文（机器翻译）
 

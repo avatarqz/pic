@@ -4,7 +4,7 @@
 
 **作者**：Michael　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/makransky-john_2008_emergence-of-buddhist-critical-constructive-reflection.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/makransky-john_2008_emergence-of-buddhist-critical-constructive-reflection.pdf)
 
 ## 全文（机器翻译）
 

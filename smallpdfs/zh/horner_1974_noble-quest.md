@@ -4,7 +4,7 @@
 
 **作者**：I. B. Horner　**年份**：1974
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/horner_1974_noble-quest.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/horner_1974_noble-quest.pdf)
 
 ## 全文（机器翻译）
 

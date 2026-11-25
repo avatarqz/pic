@@ -4,7 +4,7 @@
 
 **作者**：Wong Dorothy C　**年份**：2002
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wong-dorothy-c_2002_making-of-saint-images-of-xuanzang-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wong-dorothy-c_2002_making-of-saint-images-of-xuanzang-in.pdf)
 
 ## 全文（机器翻译）
 

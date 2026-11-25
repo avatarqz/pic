@@ -4,7 +4,7 @@
 
 **作者**：Levman Bryan　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/levman-bryan_2017_putting-smrti-back-into-sati-putting.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/levman-bryan_2017_putting-smrti-back-into-sati-putting.pdf)
 
 ## 全文（机器翻译）
 

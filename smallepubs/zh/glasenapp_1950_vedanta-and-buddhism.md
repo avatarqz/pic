@@ -4,7 +4,7 @@
 
 **作者**：Helmuth von Glasenapp　**年份**：1950
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/glasenapp_1950_vedanta-and-buddhism.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/glasenapp_1950_vedanta-and-buddhism.epub)
 
 
 ## 前文（机器翻译）

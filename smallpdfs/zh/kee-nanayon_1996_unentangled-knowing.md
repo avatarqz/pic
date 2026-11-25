@@ -4,7 +4,7 @@
 
 **作者**：Kee Nanayon　**年份**：1996
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kee-nanayon_1996_unentangled-knowing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kee-nanayon_1996_unentangled-knowing.pdf)
 
 ## 全文（机器翻译）
 

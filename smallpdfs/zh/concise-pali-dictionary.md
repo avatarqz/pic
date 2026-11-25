@@ -4,7 +4,7 @@
 
 **作者**：Aggamahāpaṇḍita Buddhadatta Mahāthera
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/concise-pali-dictionary.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/concise-pali-dictionary.pdf)
 
 ## 全文（机器翻译）
 

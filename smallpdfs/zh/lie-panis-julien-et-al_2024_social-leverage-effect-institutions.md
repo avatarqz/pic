@@ -4,7 +4,7 @@
 
 **作者**：Lie Panis Julien Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lie-panis-julien-et-al_2024_social-leverage-effect-institutions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lie-panis-julien-et-al_2024_social-leverage-effect-institutions.pdf)
 
 ## 全文（机器翻译）
 

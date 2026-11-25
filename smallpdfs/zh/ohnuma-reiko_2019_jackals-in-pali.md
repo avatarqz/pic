@@ -4,7 +4,7 @@
 
 **作者**：Ohnuma Reiko　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ohnuma-reiko_2019_jackals-in-pali.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ohnuma-reiko_2019_jackals-in-pali.pdf)
 
 ## 全文（机器翻译）
 

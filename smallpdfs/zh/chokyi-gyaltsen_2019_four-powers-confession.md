@@ -4,7 +4,7 @@
 
 **作者**：Chokyi Gyaltsen　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chokyi-gyaltsen_2019_four-powers-confession.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chokyi-gyaltsen_2019_four-powers-confession.pdf)
 
 ## 全文（机器翻译）
 

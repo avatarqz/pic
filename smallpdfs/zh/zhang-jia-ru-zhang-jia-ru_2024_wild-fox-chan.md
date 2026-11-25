@@ -4,7 +4,7 @@
 
 **作者**：Zhang Jia Ru Zhang Jia Ru　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zhang-jia-ru-zhang-jia-ru_2024_wild-fox-chan.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zhang-jia-ru-zhang-jia-ru_2024_wild-fox-chan.pdf)
 
 ## 全文（机器翻译）
 

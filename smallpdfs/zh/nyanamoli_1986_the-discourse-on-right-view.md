@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Ñāṇamoli　**年份**：1986
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1986_the-discourse-on-right-view.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1986_the-discourse-on-right-view.pdf)
 
 ## 全文（机器翻译）
 

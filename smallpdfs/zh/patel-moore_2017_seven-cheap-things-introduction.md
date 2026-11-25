@@ -4,7 +4,7 @@
 
 **作者**：Patel Moore　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/patel-moore_2017_seven-cheap-things-introduction.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/patel-moore_2017_seven-cheap-things-introduction.pdf)
 
 ## 全文（机器翻译）
 

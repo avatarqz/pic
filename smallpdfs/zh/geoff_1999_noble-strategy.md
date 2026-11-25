@@ -4,7 +4,7 @@
 
 **作者**：Thanissaro Bhikkhu　**年份**：1999
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geoff_1999_noble-strategy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geoff_1999_noble-strategy.pdf)
 
 ## 全文（机器翻译）
 

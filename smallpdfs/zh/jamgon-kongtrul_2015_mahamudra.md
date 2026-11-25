@@ -4,7 +4,7 @@
 
 **作者**：Jamgon Kongtrul　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jamgon-kongtrul_2015_mahamudra.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jamgon-kongtrul_2015_mahamudra.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Committee on the Grand Challenges and Opportunites in Environmental Engineering for the Twenty-First Century; Board on Agriculture and Natural Resources; Board on Atmospheric Sciences and Climate; Board on Chemical Sciences and Technology; Board on Energy and Environmental Systems; Board on Earth Sciences and Resources; Board on Environmental Studies and Toxicology; Board on Life Sciences; NAE Office of Programs; Ocean Studies Board; Water Science and Technology Board; Division on Earth and Life Studies; Division on Engineering and Physical Sciences; National Academy of Engineering; National Academies of Sciences, Engineering, and Medicine　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nas_2019_environmental-engineering-for-the-21st-c.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nas_2019_environmental-engineering-for-the-21st-c.pdf)
 
 ## 全文（机器翻译）
 

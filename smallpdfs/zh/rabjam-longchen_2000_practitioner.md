@@ -4,7 +4,7 @@
 
 **作者**：Rabjam Longchen　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/rabjam-longchen_2000_practitioner.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/rabjam-longchen_2000_practitioner.pdf)
 
 ## 全文（机器翻译）
 

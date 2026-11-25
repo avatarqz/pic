@@ -4,7 +4,7 @@
 
 **作者**：Stormer Viola S Et Al　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stormer-viola-s-et-al_2009_cross-modal-cueing-of-attention.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stormer-viola-s-et-al_2009_cross-modal-cueing-of-attention.pdf)
 
 ## 全文（机器翻译）
 

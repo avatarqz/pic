@@ -4,7 +4,7 @@
 
 **作者**：K. N. Jayatilleke　**年份**：1969　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jayatilleke_1969_relevance-of-buddhist-philosophy.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jayatilleke_1969_relevance-of-buddhist-philosophy.epub)
 
 
 ## 前文（机器翻译）

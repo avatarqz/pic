@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2008　**出版者**：Ancient Buddhist Texts
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/anandajoti_2008_exalted-utterances.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/anandajoti_2008_exalted-utterances.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：A.G.S. Kariyawasam　**年份**：1995
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kariyawasam-a-g-s_1995_buddhist-ceremonies-and-rituals-sri-lanka.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kariyawasam-a-g-s_1995_buddhist-ceremonies-and-rituals-sri-lanka.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Klas Sandell (Ed.,)　**年份**：2017　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/ecocrisis-perspectives.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/ecocrisis-perspectives.epub)
 
 
 ## 前文（机器翻译）

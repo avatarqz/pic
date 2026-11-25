@@ -4,7 +4,7 @@
 
 **作者**：Story Francis　**年份**：1964
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/story-francis_1964_place-of-animals-in-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/story-francis_1964_place-of-animals-in-buddhism.pdf)
 
 ## 全文（机器翻译）
 

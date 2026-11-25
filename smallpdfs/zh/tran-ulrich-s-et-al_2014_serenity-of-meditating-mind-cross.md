@@ -4,7 +4,7 @@
 
 **作者**：Tran Ulrich S Et Al　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tran-ulrich-s-et-al_2014_serenity-of-meditating-mind-cross.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tran-ulrich-s-et-al_2014_serenity-of-meditating-mind-cross.pdf)
 
 ## 全文（机器翻译）
 

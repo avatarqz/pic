@@ -4,7 +4,7 @@
 
 **作者**：Blackburn, Anne M.　**年份**：1999
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/blackburn-anne_1999_looking-for-vinaya.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/blackburn-anne_1999_looking-for-vinaya.pdf)
 
 ## 全文（机器翻译）
 

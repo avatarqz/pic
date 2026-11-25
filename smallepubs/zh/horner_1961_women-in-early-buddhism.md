@@ -4,7 +4,7 @@
 
 **作者**：I. B. Horner　**年份**：1961　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/horner_1961_women-in-early-buddhism.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/horner_1961_women-in-early-buddhism.epub)
 
 
 ## 前文（机器翻译）

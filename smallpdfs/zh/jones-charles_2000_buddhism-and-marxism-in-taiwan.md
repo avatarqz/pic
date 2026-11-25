@@ -4,7 +4,7 @@
 
 **作者**：Daniel McShane　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jones-charles_2000_buddhism-and-marxism-in-taiwan.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jones-charles_2000_buddhism-and-marxism-in-taiwan.pdf)
 
 ## 全文（机器翻译）
 

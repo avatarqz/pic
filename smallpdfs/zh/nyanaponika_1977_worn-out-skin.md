@@ -4,7 +4,7 @@
 
 **作者**：Nyanaponika Thera　**年份**：1977
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanaponika_1977_worn-out-skin.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanaponika_1977_worn-out-skin.pdf)
 
 ## 全文（机器翻译）
 

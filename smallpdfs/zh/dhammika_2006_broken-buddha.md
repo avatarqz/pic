@@ -4,7 +4,7 @@
 
 **作者**：Dhammika　**年份**：2006
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2006_broken-buddha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2006_broken-buddha.pdf)
 
 ## 全文（机器翻译）
 

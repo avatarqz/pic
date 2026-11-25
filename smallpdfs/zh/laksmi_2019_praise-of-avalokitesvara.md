@@ -4,7 +4,7 @@
 
 **作者**：Laksmi　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/laksmi_2019_praise-of-avalokitesvara.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/laksmi_2019_praise-of-avalokitesvara.pdf)
 
 ## 全文（机器翻译）
 

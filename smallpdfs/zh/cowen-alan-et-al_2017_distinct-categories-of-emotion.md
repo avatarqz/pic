@@ -4,7 +4,7 @@
 
 **作者**：Cowen Alan Et Al　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/cowen-alan-et-al_2017_distinct-categories-of-emotion.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/cowen-alan-et-al_2017_distinct-categories-of-emotion.pdf)
 
 ## 全文（机器翻译）
 

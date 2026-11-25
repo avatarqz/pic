@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bodhi_2000_facing-the-future.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bodhi_2000_facing-the-future.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Bhante Yuttadhammo　**年份**：2016
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/yuttadhammo_2016_htm2.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/yuttadhammo_2016_htm2.epub)
 
 
 ## 前文（机器翻译）

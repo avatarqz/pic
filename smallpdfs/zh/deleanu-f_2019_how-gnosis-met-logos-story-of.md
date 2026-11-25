@@ -4,7 +4,7 @@
 
 **作者**：三陽社　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/deleanu-f_2019_how-gnosis-met-logos-story-of.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/deleanu-f_2019_how-gnosis-met-logos-story-of.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Gleig Ann　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gleig-ann_2021_engaged-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gleig-ann_2021_engaged-buddhism.pdf)
 
 ## 全文（机器翻译）
 

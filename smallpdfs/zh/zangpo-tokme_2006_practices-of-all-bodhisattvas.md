@@ -4,7 +4,7 @@
 
 **作者**：Zangpo Tokme　**年份**：2006
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zangpo-tokme_2006_practices-of-all-bodhisattvas.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zangpo-tokme_2006_practices-of-all-bodhisattvas.pdf)
 
 ## 全文（机器翻译）
 

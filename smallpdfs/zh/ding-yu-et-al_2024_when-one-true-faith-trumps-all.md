@@ -4,7 +4,7 @@
 
 **作者**：Yu Ding　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ding-yu-et-al_2024_when-one-true-faith-trumps-all.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ding-yu-et-al_2024_when-one-true-faith-trumps-all.pdf)
 
 ## 全文（机器翻译）
 

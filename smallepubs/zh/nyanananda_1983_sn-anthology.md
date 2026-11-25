@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Ñāṇananda　**年份**：1983　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/nyanananda_1983_sn-anthology.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/nyanananda_1983_sn-anthology.epub)
 
 
 ## 前文（机器翻译）

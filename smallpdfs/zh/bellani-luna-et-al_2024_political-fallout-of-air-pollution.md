@@ -4,7 +4,7 @@
 
 **作者**：Bellani Luna Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bellani-luna-et-al_2024_political-fallout-of-air-pollution.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bellani-luna-et-al_2024_political-fallout-of-air-pollution.pdf)
 
 ## 全文（机器翻译）
 

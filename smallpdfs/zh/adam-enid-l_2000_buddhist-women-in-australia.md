@@ -4,7 +4,7 @@
 
 **作者**：dmcshane　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/adam-enid-l_2000_buddhist-women-in-australia.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/adam-enid-l_2000_buddhist-women-in-australia.pdf)
 
 ## 全文（机器翻译）
 

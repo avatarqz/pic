@@ -4,7 +4,7 @@
 
 **作者**：Victoria Brian　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/victoria-brian_2017_samadhi-power-in-imperial-japan.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/victoria-brian_2017_samadhi-power-in-imperial-japan.pdf)
 
 ## 全文（机器翻译）
 

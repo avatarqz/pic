@@ -4,7 +4,7 @@
 
 **作者**：Poepsel Mark　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/poepsel-mark_2017_media-society-culture-you.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/poepsel-mark_2017_media-society-culture-you.pdf)
 
 ## 全文（机器翻译）
 

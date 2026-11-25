@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Cintita　**年份**：2015　**出版者**：Lulu
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/cintita_2015_buddhist-life-buddhist-path.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/cintita_2015_buddhist-life-buddhist-path.epub)
 
 
 ## 前文（机器翻译）

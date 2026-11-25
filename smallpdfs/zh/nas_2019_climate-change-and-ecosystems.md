@@ -4,7 +4,7 @@
 
 **作者**：National Academy of Sciences; The Royal Society　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nas_2019_climate-change-and-ecosystems.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nas_2019_climate-change-and-ecosystems.pdf)
 
 ## 全文（机器翻译）
 

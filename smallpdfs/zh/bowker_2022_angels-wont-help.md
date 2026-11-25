@@ -4,7 +4,7 @@
 
 **作者**：Bowker　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bowker_2022_angels-wont-help.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bowker_2022_angels-wont-help.pdf)
 
 ## 全文（机器翻译）
 

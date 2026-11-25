@@ -4,7 +4,7 @@
 
 **作者**：Ngulchu Thogme
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/thirty-seven-practices-of-a-bodhisattva.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/thirty-seven-practices-of-a-bodhisattva.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Brahmavaṃso　**年份**：2001
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/brahm_2001_ending-of-things.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/brahm_2001_ending-of-things.pdf)
 
 ## 全文（机器翻译）
 

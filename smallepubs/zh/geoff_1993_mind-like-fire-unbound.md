@@ -4,7 +4,7 @@
 
 **作者**：Thanissaro Bhikkhu　**年份**：1993　**出版者**：Metta Forest Monastery
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/geoff_1993_mind-like-fire-unbound.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/geoff_1993_mind-like-fire-unbound.epub)
 
 
 ## 前文（机器翻译）

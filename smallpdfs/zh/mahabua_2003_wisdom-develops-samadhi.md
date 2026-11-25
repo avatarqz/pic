@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Maha Boowa Nyanasampanno　**年份**：2003
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mahabua_2003_wisdom-develops-samadhi.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mahabua_2003_wisdom-develops-samadhi.pdf)
 
 ## 全文（机器翻译）
 

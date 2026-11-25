@@ -4,7 +4,7 @@
 
 **作者**：Hagerty Et Al　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hagerty-et-al_2013_ecstatic-meditation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hagerty-et-al_2013_ecstatic-meditation.pdf)
 
 ## 全文（机器翻译）
 

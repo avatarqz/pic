@@ -4,7 +4,7 @@
 
 **作者**：Scott A. Mitchell　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mitchell-scott-a_2012_christianity-for-rubes-buddhism-for-actors.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mitchell-scott-a_2012_christianity-for-rubes-buddhism-for-actors.pdf)
 
 ## 全文（机器翻译）
 

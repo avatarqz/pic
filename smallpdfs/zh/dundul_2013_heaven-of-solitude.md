@@ -4,7 +4,7 @@
 
 **作者**：Dundul　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dundul_2013_heaven-of-solitude.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dundul_2013_heaven-of-solitude.pdf)
 
 ## 全文（机器翻译）
 

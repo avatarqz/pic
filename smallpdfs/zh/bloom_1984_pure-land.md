@@ -4,7 +4,7 @@
 
 **作者**：Ardith　**年份**：1984
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bloom_1984_pure-land.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bloom_1984_pure-land.pdf)
 
 ## 全文（机器翻译）
 

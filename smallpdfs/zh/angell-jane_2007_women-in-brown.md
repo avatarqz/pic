@@ -4,7 +4,7 @@
 
 **作者**：Soda PDF Online　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/angell-jane_2007_women-in-brown.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/angell-jane_2007_women-in-brown.pdf)
 
 ## 全文（机器翻译）
 

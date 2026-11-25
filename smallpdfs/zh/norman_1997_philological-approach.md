@@ -4,7 +4,7 @@
 
 **作者**：Chenxing Han　**年份**：1997
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/norman_1997_philological-approach.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/norman_1997_philological-approach.pdf)
 
 ## 全文（机器翻译）
 

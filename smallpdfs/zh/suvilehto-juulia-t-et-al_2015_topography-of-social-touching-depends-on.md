@@ -4,7 +4,7 @@
 
 **作者**：Suvilehto Juulia T Et Al　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/suvilehto-juulia-t-et-al_2015_topography-of-social-touching-depends-on.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/suvilehto-juulia-t-et-al_2015_topography-of-social-touching-depends-on.pdf)
 
 ## 全文（机器翻译）
 

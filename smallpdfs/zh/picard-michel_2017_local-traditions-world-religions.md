@@ -4,7 +4,7 @@
 
 **作者**：Picard Michel　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/picard-michel_2017_local-traditions-world-religions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/picard-michel_2017_local-traditions-world-religions.pdf)
 
 ## 全文（机器翻译）
 

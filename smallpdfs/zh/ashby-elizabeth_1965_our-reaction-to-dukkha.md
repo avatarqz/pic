@@ -4,7 +4,7 @@
 
 **作者**：Dr. Elizabeth Ashby　**年份**：1965
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ashby-elizabeth_1965_our-reaction-to-dukkha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ashby-elizabeth_1965_our-reaction-to-dukkha.pdf)
 
 ## 全文（机器翻译）
 

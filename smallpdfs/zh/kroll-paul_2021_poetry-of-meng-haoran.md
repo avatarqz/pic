@@ -4,7 +4,7 @@
 
 **作者**：Kroll Paul　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kroll-paul_2021_poetry-of-meng-haoran.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kroll-paul_2021_poetry-of-meng-haoran.pdf)
 
 ## 全文（机器翻译）
 

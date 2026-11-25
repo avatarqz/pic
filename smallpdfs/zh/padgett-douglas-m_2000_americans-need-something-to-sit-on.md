@@ -4,7 +4,7 @@
 
 **作者**：Daniel McShane　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/padgett-douglas-m_2000_americans-need-something-to-sit-on.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/padgett-douglas-m_2000_americans-need-something-to-sit-on.pdf)
 
 ## 全文（机器翻译）
 

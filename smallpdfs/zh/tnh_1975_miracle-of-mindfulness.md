@@ -4,7 +4,7 @@
 
 **作者**：STEVE　**年份**：1975
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tnh_1975_miracle-of-mindfulness.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tnh_1975_miracle-of-mindfulness.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Rutledge Robb B Et Al　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/rutledge-robb-b-et-al_2014_momentary-wellbeing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/rutledge-robb-b-et-al_2014_momentary-wellbeing.pdf)
 
 ## 全文（机器翻译）
 

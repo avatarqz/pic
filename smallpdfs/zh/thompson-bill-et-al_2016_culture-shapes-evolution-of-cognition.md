@@ -4,7 +4,7 @@
 
 **作者**：Thompson Bill Et Al　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/thompson-bill-et-al_2016_culture-shapes-evolution-of-cognition.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/thompson-bill-et-al_2016_culture-shapes-evolution-of-cognition.pdf)
 
 ## 全文（机器翻译）
 

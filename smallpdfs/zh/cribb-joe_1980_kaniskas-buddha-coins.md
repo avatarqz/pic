@@ -4,7 +4,7 @@
 
 **作者**：Cribb, Joseph　**年份**：1980
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/cribb-joe_1980_kaniskas-buddha-coins.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/cribb-joe_1980_kaniskas-buddha-coins.pdf)
 
 ## 全文（机器翻译）
 

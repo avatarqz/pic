@@ -4,7 +4,7 @@
 
 **作者**：Susan Elbaum Jootla　**年份**：1997　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jootla_1997_teacher-of-devas.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jootla_1997_teacher-of-devas.epub)
 
 
 ## 前文（机器翻译）

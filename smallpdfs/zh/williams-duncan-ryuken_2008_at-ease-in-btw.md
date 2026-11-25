@@ -4,7 +4,7 @@
 
 **作者**：Michael　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/williams-duncan-ryuken_2008_at-ease-in-btw.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/williams-duncan-ryuken_2008_at-ease-in-btw.pdf)
 
 ## 全文（机器翻译）
 

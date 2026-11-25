@@ -4,7 +4,7 @@
 
 **作者**：Alastair Henry　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/alastair-henry_2017_beautifully-moral.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/alastair-henry_2017_beautifully-moral.pdf)
 
 ## 全文（机器翻译）
 

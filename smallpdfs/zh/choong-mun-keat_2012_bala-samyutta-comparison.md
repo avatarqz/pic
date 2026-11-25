@@ -4,7 +4,7 @@
 
 **作者**：Oxford Centre for Buddhist Studies　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/choong-mun-keat_2012_bala-samyutta-comparison.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/choong-mun-keat_2012_bala-samyutta-comparison.pdf)
 
 ## 全文（机器翻译）
 

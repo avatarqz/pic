@@ -4,7 +4,7 @@
 
 **作者**：Jingjing Li　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/li-jingjing_2019_through-mirror-account-of-other-minds-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/li-jingjing_2019_through-mirror-account-of-other-minds-in.pdf)
 
 ## 全文（机器翻译）
 

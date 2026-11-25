@@ -4,7 +4,7 @@
 
 **作者**：FPMT　**年份**：1981
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/fpmt_1981_bodhisattva-vows.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/fpmt_1981_bodhisattva-vows.pdf)
 
 ## 全文（机器翻译）
 

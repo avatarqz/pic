@@ -4,7 +4,7 @@
 
 **作者**：Irons Ed　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/irons-ed_2020_under-the-gaze-of-the-buddha-megastatue.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/irons-ed_2020_under-the-gaze-of-the-buddha-megastatue.pdf)
 
 ## 全文（机器翻译）
 

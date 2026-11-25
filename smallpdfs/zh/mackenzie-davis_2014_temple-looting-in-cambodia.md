@@ -4,7 +4,7 @@
 
 **作者**：Mackenzie Davis　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mackenzie-davis_2014_temple-looting-in-cambodia.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mackenzie-davis_2014_temple-looting-in-cambodia.pdf)
 
 ## 全文（机器翻译）
 

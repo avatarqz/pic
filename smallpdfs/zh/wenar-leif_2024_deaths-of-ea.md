@@ -4,7 +4,7 @@
 
 **作者**：Wenar Leif　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wenar-leif_2024_deaths-of-ea.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wenar-leif_2024_deaths-of-ea.pdf)
 
 ## 全文（机器翻译）
 

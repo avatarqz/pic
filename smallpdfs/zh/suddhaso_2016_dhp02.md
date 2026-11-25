@@ -4,7 +4,7 @@
 
 **作者**：Suddhaso　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/suddhaso_2016_dhp02.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/suddhaso_2016_dhp02.pdf)
 
 ## 全文（机器翻译）
 

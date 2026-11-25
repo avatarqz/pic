@@ -4,7 +4,7 @@
 
 **作者**：Birgit Kellner　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ohnuma-reiko_2013_elephant-good-to-think.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ohnuma-reiko_2013_elephant-good-to-think.pdf)
 
 ## 全文（机器翻译）
 

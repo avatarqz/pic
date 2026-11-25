@@ -4,7 +4,7 @@
 
 **作者**：Wong Dorothy　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wong-dorothy_2020_light-emitting-image-of-magadha-in-tang.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wong-dorothy_2020_light-emitting-image-of-magadha-in-tang.pdf)
 
 ## 全文（机器翻译）
 

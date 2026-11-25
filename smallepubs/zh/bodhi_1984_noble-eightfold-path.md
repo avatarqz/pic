@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi　**年份**：1984　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/bodhi_1984_noble-eightfold-path.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/bodhi_1984_noble-eightfold-path.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Khandro Sera　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/khandro-sera_2020_concise-spiritual-advice.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/khandro-sera_2020_concise-spiritual-advice.pdf)
 
 ## 全文（机器翻译）
 

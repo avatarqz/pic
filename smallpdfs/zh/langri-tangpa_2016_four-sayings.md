@@ -4,7 +4,7 @@
 
 **作者**：Langri Tangpa　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/langri-tangpa_2016_four-sayings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/langri-tangpa_2016_four-sayings.pdf)
 
 ## 全文（机器翻译）
 

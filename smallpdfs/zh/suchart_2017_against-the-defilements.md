@@ -4,7 +4,7 @@
 
 **作者**：Suchart　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/suchart_2017_against-the-defilements.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/suchart_2017_against-the-defilements.pdf)
 
 ## 全文（机器翻译）
 

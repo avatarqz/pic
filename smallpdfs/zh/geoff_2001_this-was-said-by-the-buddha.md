@@ -4,7 +4,7 @@
 
 **作者**：Ṭhānissaro Bhikkhu　**年份**：2001
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geoff_2001_this-was-said-by-the-buddha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geoff_2001_this-was-said-by-the-buddha.pdf)
 
 ## 全文（机器翻译）
 

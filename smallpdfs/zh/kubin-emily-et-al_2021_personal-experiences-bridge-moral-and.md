@@ -4,7 +4,7 @@
 
 **作者**：Kubin Emily Et Al　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kubin-emily-et-al_2021_personal-experiences-bridge-moral-and.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kubin-emily-et-al_2021_personal-experiences-bridge-moral-and.pdf)
 
 ## 全文（机器翻译）
 

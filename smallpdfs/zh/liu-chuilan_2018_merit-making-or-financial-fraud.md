@@ -4,7 +4,7 @@
 
 **作者**：imac-freddy　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/liu-chuilan_2018_merit-making-or-financial-fraud.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/liu-chuilan_2018_merit-making-or-financial-fraud.pdf)
 
 ## 全文（机器翻译）
 

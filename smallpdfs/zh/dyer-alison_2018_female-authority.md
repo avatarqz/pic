@@ -4,7 +4,7 @@
 
 **作者**：Dyer Alison　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dyer-alison_2018_female-authority.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dyer-alison_2018_female-authority.pdf)
 
 ## 全文（机器翻译）
 

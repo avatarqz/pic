@@ -4,7 +4,7 @@
 
 **作者**：yodruk71　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/suchart_2014_mind-and-its-endless-rebirth.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/suchart_2014_mind-and-its-endless-rebirth.pdf)
 
 ## 全文（机器翻译）
 

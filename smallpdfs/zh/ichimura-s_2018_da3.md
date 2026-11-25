@@ -4,7 +4,7 @@
 
 **作者**：Ichimura S　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ichimura-s_2018_da3.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ichimura-s_2018_da3.pdf)
 
 ## 全文（机器翻译）
 

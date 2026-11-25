@@ -4,7 +4,7 @@
 
 **作者**：Khenmo Rigdzin Chodron　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/khenmo-rigdzin-chodron_2017_exhortation-to-tibet.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/khenmo-rigdzin-chodron_2017_exhortation-to-tibet.pdf)
 
 ## 全文（机器翻译）
 

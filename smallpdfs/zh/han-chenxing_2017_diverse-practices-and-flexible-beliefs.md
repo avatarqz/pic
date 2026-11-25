@@ -4,7 +4,7 @@
 
 **作者**：Han Chenxing　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/han-chenxing_2017_diverse-practices-and-flexible-beliefs.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/han-chenxing_2017_diverse-practices-and-flexible-beliefs.pdf)
 
 ## 全文（机器翻译）
 

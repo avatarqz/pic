@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Jayasaro　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jayasaro_2017_stillness-flowing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jayasaro_2017_stillness-flowing.pdf)
 
 ## 全文（机器翻译）
 

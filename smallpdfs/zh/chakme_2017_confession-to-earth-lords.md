@@ -4,7 +4,7 @@
 
 **作者**：Chakme　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chakme_2017_confession-to-earth-lords.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chakme_2017_confession-to-earth-lords.pdf)
 
 ## 全文（机器翻译）
 

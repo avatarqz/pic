@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/guang-xing_2015_conflict-and-harmony-btw-buddhism-and-china.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/guang-xing_2015_conflict-and-harmony-btw-buddhism-and-china.pdf)
 
 ## 全文（机器翻译）
 

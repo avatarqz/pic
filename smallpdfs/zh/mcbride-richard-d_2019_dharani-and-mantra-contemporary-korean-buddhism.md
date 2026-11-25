@@ -4,7 +4,7 @@
 
 **作者**：Mcbride Richard D　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mcbride-richard-d_2019_dharani-and-mantra-contemporary-korean-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mcbride-richard-d_2019_dharani-and-mantra-contemporary-korean-buddhism.pdf)
 
 ## 全文（机器翻译）
 

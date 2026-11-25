@@ -4,7 +4,7 @@
 
 **作者**：Mayer Rob　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mayer-rob_2014_innovation-and-conservation-in-treasure.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mayer-rob_2014_innovation-and-conservation-in-treasure.pdf)
 
 ## 全文（机器翻译）
 

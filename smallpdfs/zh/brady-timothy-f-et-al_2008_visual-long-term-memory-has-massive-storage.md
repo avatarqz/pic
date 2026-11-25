@@ -4,7 +4,7 @@
 
 **作者**：Brady Timothy F Et Al　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/brady-timothy-f-et-al_2008_visual-long-term-memory-has-massive-storage.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/brady-timothy-f-et-al_2008_visual-long-term-memory-has-massive-storage.pdf)
 
 ## 全文（机器翻译）
 

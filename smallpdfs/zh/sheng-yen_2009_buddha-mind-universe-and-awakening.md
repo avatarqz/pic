@@ -4,7 +4,7 @@
 
 **作者**：Sheng Yen　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sheng-yen_2009_buddha-mind-universe-and-awakening.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sheng-yen_2009_buddha-mind-universe-and-awakening.pdf)
 
 ## 全文（机器翻译）
 

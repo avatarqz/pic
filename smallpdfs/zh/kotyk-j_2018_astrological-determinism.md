@@ -4,7 +4,7 @@
 
 **作者**：Kotyk J　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kotyk-j_2018_astrological-determinism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kotyk-j_2018_astrological-determinism.pdf)
 
 ## 全文（机器翻译）
 

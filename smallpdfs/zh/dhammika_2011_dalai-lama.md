@@ -4,7 +4,7 @@
 
 **作者**：Banu Priya　**年份**：2011
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2011_dalai-lama.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2011_dalai-lama.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Chu Ch’an, et. al.　**年份**：1967
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/khantipalo_1967_buddhas-last-bequest.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/khantipalo_1967_buddhas-last-bequest.pdf)
 
 ## 全文（机器翻译）
 

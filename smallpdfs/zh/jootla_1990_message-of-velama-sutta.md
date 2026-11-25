@@ -4,7 +4,7 @@
 
 **作者**：Susan Elbaum Jootla　**年份**：1990
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jootla_1990_message-of-velama-sutta.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jootla_1990_message-of-velama-sutta.pdf)
 
 ## 全文（机器翻译）
 

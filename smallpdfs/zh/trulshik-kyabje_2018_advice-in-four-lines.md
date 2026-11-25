@@ -4,7 +4,7 @@
 
 **作者**：Trulshik Kyabje　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/trulshik-kyabje_2018_advice-in-four-lines.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/trulshik-kyabje_2018_advice-in-four-lines.pdf)
 
 ## 全文（机器翻译）
 

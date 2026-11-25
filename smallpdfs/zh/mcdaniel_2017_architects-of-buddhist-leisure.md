@@ -4,7 +4,7 @@
 
 **作者**：Justin McDaniel　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mcdaniel_2017_architects-of-buddhist-leisure.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mcdaniel_2017_architects-of-buddhist-leisure.pdf)
 
 ## 全文（机器翻译）
 

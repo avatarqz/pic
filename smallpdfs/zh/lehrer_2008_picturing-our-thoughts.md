@@ -4,7 +4,7 @@
 
 **作者**：Lehrer　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lehrer_2008_picturing-our-thoughts.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lehrer_2008_picturing-our-thoughts.pdf)
 
 ## 全文（机器翻译）
 

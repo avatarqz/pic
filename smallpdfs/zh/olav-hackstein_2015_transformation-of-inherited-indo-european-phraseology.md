@@ -4,7 +4,7 @@
 
 **作者**：Olav Hackstein　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/olav-hackstein_2015_transformation-of-inherited-indo-european-phraseology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/olav-hackstein_2015_transformation-of-inherited-indo-european-phraseology.pdf)
 
 ## 全文（机器翻译）
 

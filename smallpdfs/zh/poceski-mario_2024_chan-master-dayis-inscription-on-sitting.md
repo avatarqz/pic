@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/poceski-mario_2024_chan-master-dayis-inscription-on-sitting.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/poceski-mario_2024_chan-master-dayis-inscription-on-sitting.pdf)
 
 ## 全文（机器翻译）
 

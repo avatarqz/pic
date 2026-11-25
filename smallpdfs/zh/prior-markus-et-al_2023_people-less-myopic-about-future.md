@@ -4,7 +4,7 @@
 
 **作者**：Prior Markus Et Al　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/prior-markus-et-al_2023_people-less-myopic-about-future.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/prior-markus-et-al_2023_people-less-myopic-about-future.pdf)
 
 ## 全文（机器翻译）
 

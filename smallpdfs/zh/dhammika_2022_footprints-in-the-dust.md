@@ -4,7 +4,7 @@
 
 **作者**：shravasti dhammika　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2022_footprints-in-the-dust.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2022_footprints-in-the-dust.pdf)
 
 ## 全文（机器翻译）
 

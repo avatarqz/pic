@@ -4,7 +4,7 @@
 
 **作者**：Jamyang Khyentse Wangpo　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jamyang-khyentse-wangpo_2018_seed-of-reasoning.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jamyang-khyentse-wangpo_2018_seed-of-reasoning.pdf)
 
 ## 全文（机器翻译）
 

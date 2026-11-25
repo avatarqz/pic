@@ -4,7 +4,7 @@
 
 **作者**：Barua Dipen　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/barua-dipen_2021_concept-of-bhavannga-citta-in-theravada-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/barua-dipen_2021_concept-of-bhavannga-citta-in-theravada-buddhism.pdf)
 
 ## 全文（机器翻译）
 

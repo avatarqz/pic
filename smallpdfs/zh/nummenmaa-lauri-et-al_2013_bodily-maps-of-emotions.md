@@ -4,7 +4,7 @@
 
 **作者**：Nummenmaa Lauri Et Al　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nummenmaa-lauri-et-al_2013_bodily-maps-of-emotions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nummenmaa-lauri-et-al_2013_bodily-maps-of-emotions.pdf)
 
 ## 全文（机器翻译）
 

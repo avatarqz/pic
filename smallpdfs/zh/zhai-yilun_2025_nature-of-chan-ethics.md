@@ -4,7 +4,7 @@
 
 **作者**：Yilun Zhai　**年份**：2025
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zhai-yilun_2025_nature-of-chan-ethics.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zhai-yilun_2025_nature-of-chan-ethics.pdf)
 
 ## 全文（机器翻译）
 

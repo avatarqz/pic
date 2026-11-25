@@ -4,7 +4,7 @@
 
 **作者**：Robert Bogoda　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bogoda-r_1994_simple-guide-to-life.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bogoda-r_1994_simple-guide-to-life.pdf)
 
 ## 全文（机器翻译）
 

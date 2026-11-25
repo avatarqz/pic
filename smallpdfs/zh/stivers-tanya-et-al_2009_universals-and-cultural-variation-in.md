@@ -4,7 +4,7 @@
 
 **作者**：Stivers Tanya Et Al　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stivers-tanya-et-al_2009_universals-and-cultural-variation-in.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stivers-tanya-et-al_2009_universals-and-cultural-variation-in.pdf)
 
 ## 全文（机器翻译）
 

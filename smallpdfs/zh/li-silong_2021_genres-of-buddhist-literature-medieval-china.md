@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/li-silong_2021_genres-of-buddhist-literature-medieval-china.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/li-silong_2021_genres-of-buddhist-literature-medieval-china.pdf)
 
 ## 全文（机器翻译）
 

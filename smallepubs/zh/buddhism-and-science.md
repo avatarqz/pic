@@ -4,7 +4,7 @@
 
 **作者**：K. N. Jayatilleke, Robert F. Spencer, Wu Shu　**年份**：2017　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/buddhism-and-science.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/buddhism-and-science.epub)
 
 
 ## 前文（机器翻译）

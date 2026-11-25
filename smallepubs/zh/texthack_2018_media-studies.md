@@ -4,7 +4,7 @@
 
 **作者**：Media Texthack Team　**年份**：2018　**出版者**：BCcampus
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/texthack_2018_media-studies.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/texthack_2018_media-studies.epub)
 
 
 ## 前文（机器翻译）

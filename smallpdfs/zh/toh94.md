@@ -4,7 +4,7 @@
 
 **作者**：（未知）
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/toh94.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/toh94.pdf)
 
 ## 全文（机器翻译）
 

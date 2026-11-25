@@ -4,7 +4,7 @@
 
 **作者**：Powers John　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/powers-john_2021_three-turnings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/powers-john_2021_three-turnings.pdf)
 
 ## 全文（机器翻译）
 

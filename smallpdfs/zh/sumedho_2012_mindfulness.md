@@ -4,7 +4,7 @@
 
 **作者**：Sumedho　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sumedho_2012_mindfulness.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sumedho_2012_mindfulness.pdf)
 
 ## 全文（机器翻译）
 

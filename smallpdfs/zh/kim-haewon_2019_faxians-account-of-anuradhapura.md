@@ -4,7 +4,7 @@
 
 **作者**：Kim Haewon　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kim-haewon_2019_faxians-account-of-anuradhapura.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kim-haewon_2019_faxians-account-of-anuradhapura.pdf)
 
 ## 全文（机器翻译）
 

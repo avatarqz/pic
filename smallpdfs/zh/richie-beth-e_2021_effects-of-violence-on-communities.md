@@ -4,7 +4,7 @@
 
 **作者**：Richie Beth E　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/richie-beth-e_2021_effects-of-violence-on-communities.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/richie-beth-e_2021_effects-of-violence-on-communities.pdf)
 
 ## 全文（机器翻译）
 

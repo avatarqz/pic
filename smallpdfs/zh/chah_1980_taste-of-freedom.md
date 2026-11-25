@@ -4,7 +4,7 @@
 
 **作者**：Ven. Ajahn Chah　**年份**：1980
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chah_1980_taste-of-freedom.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chah_1980_taste-of-freedom.pdf)
 
 ## 全文（机器翻译）
 

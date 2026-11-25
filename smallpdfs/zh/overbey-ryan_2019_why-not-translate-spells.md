@@ -4,7 +4,7 @@
 
 **作者**：Overbey Ryan　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/overbey-ryan_2019_why-not-translate-spells.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/overbey-ryan_2019_why-not-translate-spells.pdf)
 
 ## 全文（机器翻译）
 

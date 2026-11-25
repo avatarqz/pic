@@ -4,7 +4,7 @@
 
 **作者**：os0phr　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/harvey_2013_buddhism-and-human-flourishing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/harvey_2013_buddhism-and-human-flourishing.pdf)
 
 ## 全文（机器翻译）
 

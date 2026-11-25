@@ -4,7 +4,7 @@
 
 **作者**：84000 – Translating the Words of the Buddha　**年份**：2022　**出版者**：84000 – Translating the Words of the Buddha
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/toh94.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/toh94.epub)
 
 
 ## 前文（机器翻译）

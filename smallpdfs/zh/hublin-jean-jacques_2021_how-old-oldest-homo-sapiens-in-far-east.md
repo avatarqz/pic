@@ -4,7 +4,7 @@
 
 **作者**：Hublin Jean Jacques　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hublin-jean-jacques_2021_how-old-oldest-homo-sapiens-in-far-east.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hublin-jean-jacques_2021_how-old-oldest-homo-sapiens-in-far-east.pdf)
 
 ## 全文（机器翻译）
 

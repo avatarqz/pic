@@ -4,7 +4,7 @@
 
 **作者**：Yuki Choji, Nanami Hirokawa, Chie Morimoto, Norihito China, Akio Nakai, Kazunori Miyata　**年份**：2025
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/choji-yuki-et-al_2025_factors-influencing-chopstick-use.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/choji-yuki-et-al_2025_factors-influencing-chopstick-use.pdf)
 
 ## 全文（机器翻译）
 

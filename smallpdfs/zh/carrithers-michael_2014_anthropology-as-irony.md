@@ -4,7 +4,7 @@
 
 **作者**：Michael Carrithers　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/carrithers-michael_2014_anthropology-as-irony.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/carrithers-michael_2014_anthropology-as-irony.pdf)
 
 ## 全文（机器翻译）
 

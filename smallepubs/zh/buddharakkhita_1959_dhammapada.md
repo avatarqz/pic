@@ -4,7 +4,7 @@
 
 **作者**：Acharya Buddharakkhita　**年份**：1959
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/buddharakkhita_1959_dhammapada.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/buddharakkhita_1959_dhammapada.epub)
 
 
 ## 前文（机器翻译）

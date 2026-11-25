@@ -4,7 +4,7 @@
 
 **作者**：Zwilling, Leonard　**年份**：1978
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zwilling_1978_vyasa-kasisundari.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zwilling_1978_vyasa-kasisundari.pdf)
 
 ## 全文（机器翻译）
 

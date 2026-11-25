@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/duc-anthony-le_2018_framework-for-buddhist-environmentalism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/duc-anthony-le_2018_framework-for-buddhist-environmentalism.pdf)
 
 ## 全文（机器翻译）
 

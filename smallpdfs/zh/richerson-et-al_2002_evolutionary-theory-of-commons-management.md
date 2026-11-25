@@ -4,7 +4,7 @@
 
 **作者**：Richerson Et Al　**年份**：2002
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/richerson-et-al_2002_evolutionary-theory-of-commons-management.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/richerson-et-al_2002_evolutionary-theory-of-commons-management.pdf)
 
 ## 全文（机器翻译）
 

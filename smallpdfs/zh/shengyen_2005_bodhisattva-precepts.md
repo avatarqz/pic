@@ -4,7 +4,7 @@
 
 **作者**：Shengyen　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/shengyen_2005_bodhisattva-precepts.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/shengyen_2005_bodhisattva-precepts.pdf)
 
 ## 全文（机器翻译）
 

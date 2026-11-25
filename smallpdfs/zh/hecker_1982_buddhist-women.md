@@ -4,7 +4,7 @@
 
 **作者**：Hellmuth Hecker & Sister Khemā (trans.)　**年份**：1982
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/hecker_1982_buddhist-women.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/hecker_1982_buddhist-women.pdf)
 
 ## 全文（机器翻译）
 

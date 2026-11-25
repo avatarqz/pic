@@ -4,7 +4,7 @@
 
 **作者**：Woodhouse Et Al　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/woodhouse-et-al_2015_religious-relationships-with-the-environment.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/woodhouse-et-al_2015_religious-relationships-with-the-environment.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Roger Bischoff　**年份**：1995
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bischoff-roger_1995_buddhism-in-myanmar.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bischoff-roger_1995_buddhism-in-myanmar.pdf)
 
 ## 全文（机器翻译）
 

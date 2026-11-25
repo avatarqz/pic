@@ -4,7 +4,7 @@
 
 **作者**：Lingpa Jigme　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lingpa-jigme_2021_one-day-vows.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lingpa-jigme_2021_one-day-vows.pdf)
 
 ## 全文（机器翻译）
 

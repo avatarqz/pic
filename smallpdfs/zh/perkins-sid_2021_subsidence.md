@@ -4,7 +4,7 @@
 
 **作者**：Perkins Sid　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/perkins-sid_2021_subsidence.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/perkins-sid_2021_subsidence.pdf)
 
 ## 全文（机器翻译）
 

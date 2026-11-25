@@ -4,7 +4,7 @@
 
 **作者**：Paul W. Kroll, Stephen Owen　**年份**：2021　**出版者**：De Gruyter
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/kroll-paul_2021_poetry-of-meng-haoran.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/kroll-paul_2021_poetry-of-meng-haoran.epub)
 
 
 ## 前文（机器翻译）

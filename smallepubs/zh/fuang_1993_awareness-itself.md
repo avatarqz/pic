@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Fuang Jotiko　**年份**：1993　**出版者**：Metta Forest Monastery
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/fuang_1993_awareness-itself.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/fuang_1993_awareness-itself.epub)
 
 
 ## 前文（机器翻译）

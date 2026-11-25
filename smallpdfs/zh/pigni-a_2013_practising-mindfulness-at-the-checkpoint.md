@@ -4,7 +4,7 @@
 
 **作者**：Pigni A　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/pigni-a_2013_practising-mindfulness-at-the-checkpoint.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/pigni-a_2013_practising-mindfulness-at-the-checkpoint.pdf)
 
 ## 全文（机器翻译）
 

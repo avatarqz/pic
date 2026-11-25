@@ -4,7 +4,7 @@
 
 **作者**：Stéphanie Leroy, Mitch Hendrickson, Emmanuelle Delqué-Kolic, Enrique Vega, Philippe Dillmann　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/leroy-stephanie-et-al_2015_dating-baphuon.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/leroy-stephanie-et-al_2015_dating-baphuon.pdf)
 
 ## 全文（机器翻译）
 

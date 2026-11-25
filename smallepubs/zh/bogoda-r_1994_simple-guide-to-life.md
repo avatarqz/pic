@@ -4,7 +4,7 @@
 
 **作者**：Robert Bogoda　**年份**：1994　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/bogoda-r_1994_simple-guide-to-life.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/bogoda-r_1994_simple-guide-to-life.epub)
 
 
 ## 前文（机器翻译）

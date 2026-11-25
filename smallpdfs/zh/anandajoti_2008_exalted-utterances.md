@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/anandajoti_2008_exalted-utterances.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/anandajoti_2008_exalted-utterances.pdf)
 
 ## 全文（机器翻译）
 

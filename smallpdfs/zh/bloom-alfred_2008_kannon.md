@@ -4,7 +4,7 @@
 
 **作者**：Ardith　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bloom-alfred_2008_kannon.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bloom-alfred_2008_kannon.pdf)
 
 ## 全文（机器翻译）
 

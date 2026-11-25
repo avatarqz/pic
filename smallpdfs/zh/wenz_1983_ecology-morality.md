@@ -4,7 +4,7 @@
 
 **作者**：Wenz　**年份**：1983
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wenz_1983_ecology-morality.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wenz_1983_ecology-morality.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Keenan, John P.　**年份**：1982
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/keenan-john_1982_original-purity-focus-early-yogacara.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/keenan-john_1982_original-purity-focus-early-yogacara.pdf)
 
 ## 全文（机器翻译）
 

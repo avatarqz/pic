@@ -4,7 +4,7 @@
 
 **作者**：David Maurice　**年份**：1961
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/maurice-david_1961_ones-own-good.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/maurice-david_1961_ones-own-good.pdf)
 
 ## 全文（机器翻译）
 

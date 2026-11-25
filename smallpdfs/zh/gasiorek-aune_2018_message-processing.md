@@ -4,7 +4,7 @@
 
 **作者**：Gasiorek Aune　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gasiorek-aune_2018_message-processing.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gasiorek-aune_2018_message-processing.pdf)
 
 ## 全文（机器翻译）
 

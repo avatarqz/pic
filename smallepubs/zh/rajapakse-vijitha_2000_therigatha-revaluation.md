@@ -4,7 +4,7 @@
 
 **作者**：Vijitha Rajapakse　**年份**：2000　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/rajapakse-vijitha_2000_therigatha-revaluation.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/rajapakse-vijitha_2000_therigatha-revaluation.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Atisha　**年份**：2017　**出版者**：Dharma Ebooks
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/dipamkara-atisha_2017_lamp-for-path-to-enlightenment.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/dipamkara-atisha_2017_lamp-for-path-to-enlightenment.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Sujato　**年份**：2007
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/sujato_2007_sects-and-sectarianism.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/sujato_2007_sects-and-sectarianism.epub)
 
 
 ## 前文（机器翻译）

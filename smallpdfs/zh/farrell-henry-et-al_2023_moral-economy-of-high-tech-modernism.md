@@ -4,7 +4,7 @@
 
 **作者**：Farrell Henry Et Al　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/farrell-henry-et-al_2023_moral-economy-of-high-tech-modernism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/farrell-henry-et-al_2023_moral-economy-of-high-tech-modernism.pdf)
 
 ## 全文（机器翻译）
 

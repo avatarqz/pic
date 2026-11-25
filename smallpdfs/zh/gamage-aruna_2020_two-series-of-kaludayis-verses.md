@@ -4,7 +4,7 @@
 
 **作者**：Gamage Aruna　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gamage-aruna_2020_two-series-of-kaludayis-verses.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gamage-aruna_2020_two-series-of-kaludayis-verses.pdf)
 
 ## 全文（机器翻译）
 

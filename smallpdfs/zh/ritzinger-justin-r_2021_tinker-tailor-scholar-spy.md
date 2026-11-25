@@ -4,7 +4,7 @@
 
 **作者**：Maud , Jovan　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ritzinger-justin-r_2021_tinker-tailor-scholar-spy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ritzinger-justin-r_2021_tinker-tailor-scholar-spy.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Smith Doug　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/smith-doug_2022_shape-of-victory.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/smith-doug_2022_shape-of-victory.pdf)
 
 ## 全文（机器翻译）
 

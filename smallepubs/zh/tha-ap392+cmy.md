@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2012　**出版者**：Ancient Buddhist Texts
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/tha-ap392%2Bcmy.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/tha-ap392%252Bcmy.epub)
 
 
 ## 前文（机器翻译）

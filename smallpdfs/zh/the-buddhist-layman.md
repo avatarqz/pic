@@ -4,7 +4,7 @@
 
 **作者**：R. Bogoda, Susan Elbaum Jootla & M.O’C. Walshe
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/the-buddhist-layman.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/the-buddhist-layman.pdf)
 
 ## 全文（机器翻译）
 

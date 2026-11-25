@@ -4,7 +4,7 @@
 
 **作者**：Thadu Maha Thray Sithu U Chan Htoon　**年份**：1962
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/u-chan-htoon_1962_buddhism-and-the-age-of-science.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/u-chan-htoon_1962_buddhism-and-the-age-of-science.pdf)
 
 ## 全文（机器翻译）
 

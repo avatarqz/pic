@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Sumedho　**年份**：1994　**出版者**：Amaravati Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/sumedho_1994_the-four-noble-truths.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/sumedho_1994_the-four-noble-truths.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Patrul　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/patrul_2014_advice-for-alak-dongak.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/patrul_2014_advice-for-alak-dongak.pdf)
 
 ## 全文（机器翻译）
 

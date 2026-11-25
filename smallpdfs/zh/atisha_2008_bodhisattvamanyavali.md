@@ -4,7 +4,7 @@
 
 **作者**：Atisha　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/atisha_2008_bodhisattvamanyavali.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/atisha_2008_bodhisattvamanyavali.pdf)
 
 ## 全文（机器翻译）
 

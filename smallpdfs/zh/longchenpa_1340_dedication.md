@@ -4,7 +4,7 @@
 
 **作者**：Longchenpa　**年份**：1340
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/longchenpa_1340_dedication.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/longchenpa_1340_dedication.pdf)
 
 ## 全文（机器翻译）
 

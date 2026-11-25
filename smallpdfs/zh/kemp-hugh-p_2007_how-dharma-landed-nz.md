@@ -4,7 +4,7 @@
 
 **作者**：Michael　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kemp-hugh-p_2007_how-dharma-landed-nz.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kemp-hugh-p_2007_how-dharma-landed-nz.pdf)
 
 ## 全文（机器翻译）
 

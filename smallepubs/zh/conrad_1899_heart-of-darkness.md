@@ -4,7 +4,7 @@
 
 **作者**：Joseph Conrad　**年份**：1899
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/conrad_1899_heart-of-darkness.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/conrad_1899_heart-of-darkness.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti Bhikkhu　**年份**：2016　**出版者**：https://www.ancient-buddhist-texts.net
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/anandajoti_2016_thai-chanting.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/anandajoti_2016_thai-chanting.epub)
 
 
 ## 前文（机器翻译）

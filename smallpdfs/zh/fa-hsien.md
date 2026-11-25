@@ -4,7 +4,7 @@
 
 **作者**：Fa-hsien, ca. 337-ca. 422
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/fa-hsien.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/fa-hsien.pdf)
 
 ## 全文（机器翻译）
 
@@ -96,7 +96,8 @@ vi
 
 ### 佛陀传说
 
-甘地.a.
+甘地
+.a.
 
 ### 佛陀传说
 
@@ -13218,7 +13219,8 @@ M 插入 i。" S, M ^。测试在«上有^
 
 '=
 
-S, ] 省略。
+S, ]
+ 省略。
 
 S,
 

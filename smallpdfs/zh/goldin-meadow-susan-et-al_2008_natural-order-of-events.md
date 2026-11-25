@@ -4,7 +4,7 @@
 
 **作者**：Goldin Meadow Susan Et Al　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/goldin-meadow-susan-et-al_2008_natural-order-of-events.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/goldin-meadow-susan-et-al_2008_natural-order-of-events.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Master Sheng Yen　**年份**：2005　**出版者**：法鼓佛教學院
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/shengyen_2005_bodhisattva-precepts.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/shengyen_2005_bodhisattva-precepts.epub)
 
 
 ## 前文（机器翻译）

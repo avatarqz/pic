@@ -4,7 +4,7 @@
 
 **作者**：Bao Jiemin　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bao-jiemin_2017_not-simple-temple-food.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bao-jiemin_2017_not-simple-temple-food.pdf)
 
 ## 全文（机器翻译）
 

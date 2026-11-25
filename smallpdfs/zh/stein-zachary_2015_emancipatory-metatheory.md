@@ -4,7 +4,7 @@
 
 **作者**：Zachary  Stein　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stein-zachary_2015_emancipatory-metatheory.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stein-zachary_2015_emancipatory-metatheory.pdf)
 
 ## 全文（机器翻译）
 

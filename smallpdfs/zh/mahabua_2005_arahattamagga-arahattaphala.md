@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Maha Boowa Nyanasampanno　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mahabua_2005_arahattamagga-arahattaphala.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mahabua_2005_arahattamagga-arahattaphala.pdf)
 
 ## 全文（机器翻译）
 

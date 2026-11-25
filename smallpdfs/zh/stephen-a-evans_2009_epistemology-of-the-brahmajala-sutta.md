@@ -4,7 +4,7 @@
 
 **作者**：Stephen A Evans　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stephen-a-evans_2009_epistemology-of-the-brahmajala-sutta.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stephen-a-evans_2009_epistemology-of-the-brahmajala-sutta.pdf)
 
 ## 全文（机器翻译）
 

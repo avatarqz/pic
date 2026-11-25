@@ -4,7 +4,7 @@
 
 **作者**：Shulman Eviatar　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/shulman-eviatar_2012_early-buddhist-imagination-atthakavagga.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/shulman-eviatar_2012_early-buddhist-imagination-atthakavagga.pdf)
 
 ## 全文（机器翻译）
 

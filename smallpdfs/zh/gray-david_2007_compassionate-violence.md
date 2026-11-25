@@ -4,7 +4,7 @@
 
 **作者**：Daniel Arnold　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gray-david_2007_compassionate-violence.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gray-david_2007_compassionate-violence.pdf)
 
 ## 全文（机器翻译）
 

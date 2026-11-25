@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Maha Boowa Nyanasampanno
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mahaboowa-in-london.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mahaboowa-in-london.pdf)
 
 ## 全文（机器翻译）
 

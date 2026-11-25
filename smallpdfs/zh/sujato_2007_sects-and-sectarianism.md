@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Sujato　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sujato_2007_sects-and-sectarianism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sujato_2007_sects-and-sectarianism.pdf)
 
 ## 全文（机器翻译）
 

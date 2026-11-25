@@ -4,7 +4,7 @@
 
 **作者**：freddy　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/konczak_2015_hindu-deities-kizil-cave-178.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/konczak_2015_hindu-deities-kizil-cave-178.pdf)
 
 ## 全文（机器翻译）
 

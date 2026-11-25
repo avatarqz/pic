@@ -4,7 +4,7 @@
 
 **作者**：Polak Grzegorz　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/polak-grzegorz_2018_language-conscious-experience-and-self.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/polak-grzegorz_2018_language-conscious-experience-and-self.pdf)
 
 ## 全文（机器翻译）
 

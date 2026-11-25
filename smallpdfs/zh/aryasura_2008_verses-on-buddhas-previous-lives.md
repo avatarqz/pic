@@ -4,7 +4,7 @@
 
 **作者**：Aryasura　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/aryasura_2008_verses-on-buddhas-previous-lives.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/aryasura_2008_verses-on-buddhas-previous-lives.pdf)
 
 ## 全文（机器翻译）
 

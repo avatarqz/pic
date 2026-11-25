@@ -4,7 +4,7 @@
 
 **作者**：Shenga　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/shenga_2020_prologue-to-intro-middle-way.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/shenga_2020_prologue-to-intro-middle-way.pdf)
 
 ## 全文（机器翻译）
 

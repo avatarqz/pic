@@ -4,7 +4,7 @@
 
 **作者**：Gombrich　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gombrich_1994_ashoka-upasaka.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gombrich_1994_ashoka-upasaka.pdf)
 
 ## 全文（机器翻译）
 

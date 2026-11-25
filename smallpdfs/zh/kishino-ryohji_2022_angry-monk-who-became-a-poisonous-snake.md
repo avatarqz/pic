@@ -4,7 +4,7 @@
 
 **作者**：Kishino Ryohji　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kishino-ryohji_2022_angry-monk-who-became-a-poisonous-snake.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kishino-ryohji_2022_angry-monk-who-became-a-poisonous-snake.pdf)
 
 ## 全文（机器翻译）
 

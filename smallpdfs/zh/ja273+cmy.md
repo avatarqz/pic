@@ -4,7 +4,7 @@
 
 **作者**：USER
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ja273+cmy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ja273%2Bcmy.pdf)
 
 ## 全文（机器翻译）
 

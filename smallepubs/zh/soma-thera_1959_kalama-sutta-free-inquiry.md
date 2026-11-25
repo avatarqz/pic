@@ -4,7 +4,7 @@
 
 **作者**：Soma Thera　**年份**：1959　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/soma-thera_1959_kalama-sutta-free-inquiry.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/soma-thera_1959_kalama-sutta-free-inquiry.epub)
 
 
 ## 前文（机器翻译）

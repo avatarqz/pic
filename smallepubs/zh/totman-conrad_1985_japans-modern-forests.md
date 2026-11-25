@@ -4,7 +4,7 @@
 
 **作者**：Conrad Totman　**年份**：1985　**出版者**：University of Hawai‘i Press
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/totman-conrad_1985_japans-modern-forests.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/totman-conrad_1985_japans-modern-forests.epub)
 
 
 ## 前文（机器翻译）

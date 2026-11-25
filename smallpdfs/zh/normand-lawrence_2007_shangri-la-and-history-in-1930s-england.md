@@ -4,7 +4,7 @@
 
 **作者**：Normand Lawrence　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/normand-lawrence_2007_shangri-la-and-history-in-1930s-england.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/normand-lawrence_2007_shangri-la-and-history-in-1930s-england.pdf)
 
 ## 全文（机器翻译）
 

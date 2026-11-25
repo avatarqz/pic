@@ -4,7 +4,7 @@
 
 **作者**：Padmasiri de Silva　**年份**：1976
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/desilva_1976_psychology-of-emotions.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/desilva_1976_psychology-of-emotions.pdf)
 
 ## 全文（机器翻译）
 

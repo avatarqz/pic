@@ -4,7 +4,7 @@
 
 **作者**：Ven. Mahasi Sayadaw　**年份**：1957　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/mahasi_1957_satipatthana-vipassana.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/mahasi_1957_satipatthana-vipassana.epub)
 
 
 ## 前文（机器翻译）

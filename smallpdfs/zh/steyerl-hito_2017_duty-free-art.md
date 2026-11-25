@@ -4,7 +4,7 @@
 
 **作者**：Hito Steyerl　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/steyerl-hito_2017_duty-free-art.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/steyerl-hito_2017_duty-free-art.pdf)
 
 ## 全文（机器翻译）
 

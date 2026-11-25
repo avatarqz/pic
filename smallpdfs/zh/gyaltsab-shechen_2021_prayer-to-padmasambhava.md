@@ -4,7 +4,7 @@
 
 **作者**：Gyaltsab Shechen　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gyaltsab-shechen_2021_prayer-to-padmasambhava.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gyaltsab-shechen_2021_prayer-to-padmasambhava.pdf)
 
 ## 全文（机器翻译）
 

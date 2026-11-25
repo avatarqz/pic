@@ -4,7 +4,7 @@
 
 **作者**：Thich Nhat Hanh　**年份**：1975　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/tnh_1975_miracle-of-mindfulness.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/tnh_1975_miracle-of-mindfulness.epub)
 
 
 ## 前文（机器翻译）

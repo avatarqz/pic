@@ -4,7 +4,7 @@
 
 **作者**：durair　**年份**：2003
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/silk-jonathan-a_2003_fruits-of-paradox-on-religious.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/silk-jonathan-a_2003_fruits-of-paradox-on-religious.pdf)
 
 ## 全文（机器翻译）
 

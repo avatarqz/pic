@@ -4,7 +4,7 @@
 
 **作者**：Wijesekera　**年份**：1960
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wijesekera_1960_peace.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wijesekera_1960_peace.pdf)
 
 ## 全文（机器翻译）
 

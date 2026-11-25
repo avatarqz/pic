@@ -4,7 +4,7 @@
 
 **作者**：Hito Steyerl　**年份**：2017　**出版者**：Penguin Random House LLC (Publisher Services)
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/steyerl-hito_2017_duty-free-art.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/steyerl-hito_2017_duty-free-art.epub)
 
 
 ## 前文（机器翻译）

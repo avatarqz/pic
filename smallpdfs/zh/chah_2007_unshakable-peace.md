@@ -4,7 +4,7 @@
 
 **作者**：Chah　**年份**：2007
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chah_2007_unshakable-peace.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chah_2007_unshakable-peace.pdf)
 
 ## 全文（机器翻译）
 

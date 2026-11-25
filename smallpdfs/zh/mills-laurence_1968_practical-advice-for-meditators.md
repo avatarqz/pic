@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Khantipālo　**年份**：1968
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mills-laurence_1968_practical-advice-for-meditators.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mills-laurence_1968_practical-advice-for-meditators.pdf)
 
 ## 全文（机器翻译）
 

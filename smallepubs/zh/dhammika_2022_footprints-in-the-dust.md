@@ -4,7 +4,7 @@
 
 **作者**：Bhante S. Dhammika　**年份**：2022
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/dhammika_2022_footprints-in-the-dust.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/dhammika_2022_footprints-in-the-dust.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Nyanananda　**年份**：1983
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanananda_1983_sn-anthology.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanananda_1983_sn-anthology.pdf)
 
 ## 全文（机器翻译）
 

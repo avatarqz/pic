@@ -4,7 +4,7 @@
 
 **作者**：Gould Hannah Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gould-hannah-et-al_2024_dying-buddhish-death-diversity.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gould-hannah-et-al_2024_dying-buddhish-death-diversity.pdf)
 
 ## 全文（机器翻译）
 

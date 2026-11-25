@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Khantipālo　**年份**：1968　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/mills-laurence_1968_practical-advice-for-meditators.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/mills-laurence_1968_practical-advice-for-meditators.epub)
 
 
 ## 前文（机器翻译）

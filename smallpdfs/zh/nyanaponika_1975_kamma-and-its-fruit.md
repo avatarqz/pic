@@ -4,7 +4,7 @@
 
 **作者**：sadhu　**年份**：1975
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanaponika_1975_kamma-and-its-fruit.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanaponika_1975_kamma-and-its-fruit.pdf)
 
 ## 全文（机器翻译）
 

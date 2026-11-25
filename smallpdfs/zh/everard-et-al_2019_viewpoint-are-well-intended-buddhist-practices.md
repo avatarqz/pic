@@ -4,7 +4,7 @@
 
 **作者**：bhanson　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/everard-et-al_2019_viewpoint-are-well-intended-buddhist-practices.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/everard-et-al_2019_viewpoint-are-well-intended-buddhist-practices.pdf)
 
 ## 全文（机器翻译）
 

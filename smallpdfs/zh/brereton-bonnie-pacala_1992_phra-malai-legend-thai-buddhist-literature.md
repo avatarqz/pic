@@ -4,7 +4,7 @@
 
 **作者**：Brereton Bonnie Pacala　**年份**：1992
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/brereton-bonnie-pacala_1992_phra-malai-legend-thai-buddhist-literature.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/brereton-bonnie-pacala_1992_phra-malai-legend-thai-buddhist-literature.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Gómez, Luis O.　**年份**：1995
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gomez-luis-o_1995_unspoken-paradigms-meanderings.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gomez-luis-o_1995_unspoken-paradigms-meanderings.pdf)
 
 ## 全文（机器翻译）
 

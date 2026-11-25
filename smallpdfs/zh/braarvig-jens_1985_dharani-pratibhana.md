@@ -4,7 +4,7 @@
 
 **作者**：Braarvig, Jens　**年份**：1985
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/braarvig-jens_1985_dharani-pratibhana.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/braarvig-jens_1985_dharani-pratibhana.pdf)
 
 ## 全文（机器翻译）
 

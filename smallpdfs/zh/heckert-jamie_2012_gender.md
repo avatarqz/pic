@@ -4,7 +4,7 @@
 
 **作者**：Jamie Heckert　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/heckert-jamie_2012_gender.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/heckert-jamie_2012_gender.pdf)
 
 ## 全文（机器翻译）
 

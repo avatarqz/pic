@@ -4,7 +4,7 @@
 
 **作者**：sadhu　**年份**：1959
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/buddharakkhita_1959_dhammapada.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/buddharakkhita_1959_dhammapada.pdf)
 
 ## 全文（机器翻译）
 

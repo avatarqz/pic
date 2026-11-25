@@ -4,7 +4,7 @@
 
 **作者**：Nyanaponika Thera　**年份**：1975　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/nyanaponika_1975_kamma-and-its-fruit.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/nyanaponika_1975_kamma-and-its-fruit.epub)
 
 
 ## 前文（机器翻译）

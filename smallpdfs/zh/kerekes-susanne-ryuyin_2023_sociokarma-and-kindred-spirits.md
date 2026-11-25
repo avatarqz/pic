@@ -4,7 +4,7 @@
 
 **作者**：Kerekes Susanne Ryuyin　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kerekes-susanne-ryuyin_2023_sociokarma-and-kindred-spirits.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kerekes-susanne-ryuyin_2023_sociokarma-and-kindred-spirits.pdf)
 
 ## 全文（机器翻译）
 

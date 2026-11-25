@@ -4,7 +4,7 @@
 
 **作者**：Sister Vajirā & Francis Story　**年份**：1964　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/vajira-story_1964_last-days.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/vajira-story_1964_last-days.epub)
 
 
 ## 前文（机器翻译）

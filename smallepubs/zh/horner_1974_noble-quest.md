@@ -4,7 +4,7 @@
 
 **作者**：I. B. Horner　**年份**：1974　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/horner_1974_noble-quest.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/horner_1974_noble-quest.epub)
 
 
 ## 前文（机器翻译）

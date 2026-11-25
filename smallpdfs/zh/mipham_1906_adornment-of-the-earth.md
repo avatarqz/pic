@@ -4,7 +4,7 @@
 
 **作者**：Mipham　**年份**：1906
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mipham_1906_adornment-of-the-earth.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mipham_1906_adornment-of-the-earth.pdf)
 
 ## 全文（机器翻译）
 

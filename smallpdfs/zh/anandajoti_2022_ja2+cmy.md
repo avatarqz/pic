@@ -4,7 +4,7 @@
 
 **作者**：Anandajoti　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/anandajoti_2022_ja2+cmy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/anandajoti_2022_ja2%2Bcmy.pdf)
 
 ## 全文（机器翻译）
 

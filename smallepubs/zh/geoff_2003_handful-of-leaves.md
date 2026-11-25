@@ -4,7 +4,7 @@
 
 **作者**：Ṭhānissaro Bhikkhu　**年份**：2003　**出版者**：Metta Forest Monastery
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/geoff_2003_handful-of-leaves.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/geoff_2003_handful-of-leaves.epub)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ordali Erica Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ordali-erica-et-al_2024_prolonged-exertion-of-self-control.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ordali-erica-et-al_2024_prolonged-exertion-of-self-control.pdf)
 
 ## 全文（机器翻译）
 

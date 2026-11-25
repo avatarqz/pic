@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Nyanamoli and Bhikkhu Bodhi　**年份**：2018　**出版者**：Wisdom Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/nyanamoli-bodhi_2018_mn-selections.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/nyanamoli-bodhi_2018_mn-selections.epub)
 
 
 ## 前文（机器翻译）

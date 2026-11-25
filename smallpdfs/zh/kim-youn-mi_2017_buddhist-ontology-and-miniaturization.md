@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kim-youn-mi_2017_buddhist-ontology-and-miniaturization.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kim-youn-mi_2017_buddhist-ontology-and-miniaturization.pdf)
 
 ## 全文（机器翻译）
 

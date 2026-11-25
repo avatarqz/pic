@@ -4,7 +4,7 @@
 
 **作者**：Banu Priya　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2019_mary-foster.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2019_mary-foster.pdf)
 
 ## 全文（机器翻译）
 

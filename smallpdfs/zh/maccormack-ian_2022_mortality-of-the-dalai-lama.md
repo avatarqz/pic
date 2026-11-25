@@ -4,7 +4,7 @@
 
 **作者**：Maccormack Ian　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/maccormack-ian_2022_mortality-of-the-dalai-lama.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/maccormack-ian_2022_mortality-of-the-dalai-lama.pdf)
 
 ## 全文（机器翻译）
 

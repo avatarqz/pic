@@ -4,7 +4,7 @@
 
 **作者**：Thomas D. Albright　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/albright-thomas_2015_perceiving.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/albright-thomas_2015_perceiving.pdf)
 
 ## 全文（机器翻译）
 

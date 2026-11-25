@@ -4,7 +4,7 @@
 
 **作者**：Helmuth von Glasenapp　**年份**：1950
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/glasenapp_1950_vedanta-and-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/glasenapp_1950_vedanta-and-buddhism.pdf)
 
 ## 全文（机器翻译）
 

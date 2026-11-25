@@ -4,7 +4,7 @@
 
 **作者**：Anne Yvonne Guillou　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/guillou-anne-yvonne_2017_khmer-potent-places-parami-and.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/guillou-anne-yvonne_2017_khmer-potent-places-parami-and.pdf)
 
 ## 全文（机器翻译）
 

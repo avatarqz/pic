@@ -4,7 +4,7 @@
 
 **作者**：Gyamtso Yeshe　**年份**：2013
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gyamtso-yeshe_2013_four-noble-truths.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gyamtso-yeshe_2013_four-noble-truths.pdf)
 
 ## 全文（机器翻译）
 

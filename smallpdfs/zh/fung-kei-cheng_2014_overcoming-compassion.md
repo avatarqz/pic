@@ -4,7 +4,7 @@
 
 **作者**：Oxford Centre for Buddhist Studies　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/fung-kei-cheng_2014_overcoming-compassion.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/fung-kei-cheng_2014_overcoming-compassion.pdf)
 
 ## 全文（机器翻译）
 

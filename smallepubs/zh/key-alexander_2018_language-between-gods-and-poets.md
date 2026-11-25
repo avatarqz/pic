@@ -4,7 +4,7 @@
 
 **作者**：Alexander Key　**年份**：2018　**出版者**：University of California Press.
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/key-alexander_2018_language-between-gods-and-poets.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/key-alexander_2018_language-between-gods-and-poets.epub)
 
 
 ## 前文（机器翻译）

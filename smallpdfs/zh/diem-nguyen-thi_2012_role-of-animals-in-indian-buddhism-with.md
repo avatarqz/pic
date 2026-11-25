@@ -4,7 +4,7 @@
 
 **作者**：Diem Nguyen Thi　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/diem-nguyen-thi_2012_role-of-animals-in-indian-buddhism-with.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/diem-nguyen-thi_2012_role-of-animals-in-indian-buddhism-with.pdf)
 
 ## 全文（机器翻译）
 

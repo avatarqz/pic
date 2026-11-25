@@ -4,7 +4,7 @@
 
 **作者**：JOHN CATON　**年份**：2001
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sheldrake-rupert_2001_being-stared-at.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sheldrake-rupert_2001_being-stared-at.pdf)
 
 ## 全文（机器翻译）
 

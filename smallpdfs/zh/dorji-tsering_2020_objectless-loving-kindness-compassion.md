@@ -4,7 +4,7 @@
 
 **作者**：Dorji Tsering　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dorji-tsering_2020_objectless-loving-kindness-compassion.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dorji-tsering_2020_objectless-loving-kindness-compassion.pdf)
 
 ## 全文（机器翻译）
 

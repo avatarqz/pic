@@ -4,7 +4,7 @@
 
 **作者**：Atisha　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dipamkara-atisha_2017_lamp-for-path-to-enlightenment.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dipamkara-atisha_2017_lamp-for-path-to-enlightenment.pdf)
 
 ## 全文（机器翻译）
 

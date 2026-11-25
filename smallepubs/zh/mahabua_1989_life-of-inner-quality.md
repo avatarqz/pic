@@ -4,7 +4,7 @@
 
 **作者**：Ajaan Mahā Boowa Ñāṇasampanno　**年份**：1989　**出版者**：Forest Dhamma Monastery Organization
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/mahabua_1989_life-of-inner-quality.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/mahabua_1989_life-of-inner-quality.epub)
 
 
 ## 前文（机器翻译）

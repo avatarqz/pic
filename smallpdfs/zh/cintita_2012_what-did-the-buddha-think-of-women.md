@@ -4,7 +4,7 @@
 
 **作者**：Cintita　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/cintita_2012_what-did-the-buddha-think-of-women.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/cintita_2012_what-did-the-buddha-think-of-women.pdf)
 
 ## 全文（机器翻译）
 

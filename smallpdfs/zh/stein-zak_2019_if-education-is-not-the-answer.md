@@ -4,7 +4,7 @@
 
 **作者**：Stein Zak　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/stein-zak_2019_if-education-is-not-the-answer.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/stein-zak_2019_if-education-is-not-the-answer.pdf)
 
 ## 全文（机器翻译）
 

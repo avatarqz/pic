@@ -4,7 +4,7 @@
 
 **作者**：Joyce Kelly　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/joyce-kelly_2005_appealing-images.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/joyce-kelly_2005_appealing-images.pdf)
 
 ## 全文（机器翻译）
 

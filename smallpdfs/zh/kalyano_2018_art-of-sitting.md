@@ -4,7 +4,7 @@
 
 **作者**：David　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/kalyano_2018_art-of-sitting.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/kalyano_2018_art-of-sitting.pdf)
 
 ## 全文（机器翻译）
 

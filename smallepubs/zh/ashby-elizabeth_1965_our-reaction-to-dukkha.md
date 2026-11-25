@@ -4,7 +4,7 @@
 
 **作者**：Dr. Elizabeth Ashby　**年份**：1965
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/ashby-elizabeth_1965_our-reaction-to-dukkha.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/ashby-elizabeth_1965_our-reaction-to-dukkha.epub)
 
 
 ## 前文（机器翻译）

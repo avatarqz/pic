@@ -4,7 +4,7 @@
 
 **作者**：Vajira Story　**年份**：1964
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/vajira-story_1964_last-days.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/vajira-story_1964_last-days.pdf)
 
 ## 全文（机器翻译）
 

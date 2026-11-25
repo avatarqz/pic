@@ -4,7 +4,7 @@
 
 **作者**：Dun　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dun_2005_gifts-he-left-behind.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dun_2005_gifts-he-left-behind.pdf)
 
 ## 全文（机器翻译）
 

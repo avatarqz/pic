@@ -4,7 +4,7 @@
 
 **作者**：Alexander Key　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/key-alexander_2018_language-between-gods-and-poets.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/key-alexander_2018_language-between-gods-and-poets.pdf)
 
 ## 全文（机器翻译）
 

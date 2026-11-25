@@ -4,7 +4,7 @@
 
 **作者**：Nyanamoli Thera　**年份**：1977
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/nyanamoli_1977_buddhas-words-on-kamma.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/nyanamoli_1977_buddhas-words-on-kamma.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Amaro　**年份**：2003　**出版者**：Amaravati Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/amaro_2003_small-boat-great-mountain.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/amaro_2003_small-boat-great-mountain.epub)
 
 
 ## 前文（机器翻译）

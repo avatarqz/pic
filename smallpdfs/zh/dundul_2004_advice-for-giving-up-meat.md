@@ -4,7 +4,7 @@
 
 **作者**：Dundul　**年份**：2004
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dundul_2004_advice-for-giving-up-meat.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dundul_2004_advice-for-giving-up-meat.pdf)
 
 ## 全文（机器翻译）
 

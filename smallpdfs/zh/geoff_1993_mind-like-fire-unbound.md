@@ -4,7 +4,7 @@
 
 **作者**：Thanissaro Bhikkhu　**年份**：1993
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/geoff_1993_mind-like-fire-unbound.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/geoff_1993_mind-like-fire-unbound.pdf)
 
 ## 全文（机器翻译）
 

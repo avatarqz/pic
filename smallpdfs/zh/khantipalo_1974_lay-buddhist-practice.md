@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Khantipālo　**年份**：1974
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/khantipalo_1974_lay-buddhist-practice.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/khantipalo_1974_lay-buddhist-practice.pdf)
 
 ## 全文（机器翻译）
 

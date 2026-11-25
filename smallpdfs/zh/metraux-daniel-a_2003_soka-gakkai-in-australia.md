@@ -4,7 +4,7 @@
 
 **作者**：Michel J. Wilson　**年份**：2003
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/metraux-daniel-a_2003_soka-gakkai-in-australia.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/metraux-daniel-a_2003_soka-gakkai-in-australia.pdf)
 
 ## 全文（机器翻译）
 

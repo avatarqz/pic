@@ -4,7 +4,7 @@
 
 **作者**：Moerman D Max　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/moerman-d-max_2021_xuanzang-paris-european-reception-of.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/moerman-d-max_2021_xuanzang-paris-european-reception-of.pdf)
 
 ## 全文（机器翻译）
 

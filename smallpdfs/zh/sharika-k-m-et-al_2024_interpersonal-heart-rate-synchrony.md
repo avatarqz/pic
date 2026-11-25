@@ -4,7 +4,7 @@
 
 **作者**：Sharika K M Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sharika-k-m-et-al_2024_interpersonal-heart-rate-synchrony.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sharika-k-m-et-al_2024_interpersonal-heart-rate-synchrony.pdf)
 
 ## 全文（机器翻译）
 

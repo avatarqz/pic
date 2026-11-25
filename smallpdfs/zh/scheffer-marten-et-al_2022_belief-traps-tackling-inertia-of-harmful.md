@@ -4,7 +4,7 @@
 
 **作者**：Scheffer Marten Et Al　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/scheffer-marten-et-al_2022_belief-traps-tackling-inertia-of-harmful.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/scheffer-marten-et-al_2022_belief-traps-tackling-inertia-of-harmful.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Lobzan Chokyi Gyaltsen　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lobzan-chokyi-gyaltsen_2019_rays-of-moonlight.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lobzan-chokyi-gyaltsen_2019_rays-of-moonlight.pdf)
 
 ## 全文（机器翻译）
 

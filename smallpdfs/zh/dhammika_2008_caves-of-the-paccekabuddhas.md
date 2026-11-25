@@ -4,7 +4,7 @@
 
 **作者**：shravasti dhammika　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2008_caves-of-the-paccekabuddhas.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2008_caves-of-the-paccekabuddhas.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Bao Willis　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bao-willis_2022_appropriation-of-buddha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bao-willis_2022_appropriation-of-buddha.pdf)
 
 ## 全文（机器翻译）
 

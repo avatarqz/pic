@@ -4,7 +4,7 @@
 
 **作者**：Ngawang Palzang　**年份**：2015
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ngawang-palzang_2015_advice-in-a-single-statement.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ngawang-palzang_2015_advice-in-a-single-statement.pdf)
 
 ## 全文（机器翻译）
 

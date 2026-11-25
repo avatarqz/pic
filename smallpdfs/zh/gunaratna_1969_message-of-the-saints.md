@@ -4,7 +4,7 @@
 
 **作者**：V. F. Gunaratna　**年份**：1969
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gunaratna_1969_message-of-the-saints.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gunaratna_1969_message-of-the-saints.pdf)
 
 ## 全文（机器翻译）
 

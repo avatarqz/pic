@@ -4,7 +4,7 @@
 
 **作者**：Soma Thera　**年份**：1959
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/soma-thera_1959_kalama-sutta-free-inquiry.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/soma-thera_1959_kalama-sutta-free-inquiry.pdf)
 
 ## 全文（机器翻译）
 

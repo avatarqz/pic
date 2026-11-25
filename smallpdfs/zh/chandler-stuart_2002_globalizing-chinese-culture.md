@@ -4,7 +4,7 @@
 
 **作者**：Michael Wilson　**年份**：2002
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chandler-stuart_2002_globalizing-chinese-culture.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chandler-stuart_2002_globalizing-chinese-culture.pdf)
 
 ## 全文（机器翻译）
 

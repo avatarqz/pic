@@ -4,7 +4,7 @@
 
 **作者**：Xu Chi Et Al　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/xu-chi-et-al_2020_future-of-human-climate-niche.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/xu-chi-et-al_2020_future-of-human-climate-niche.pdf)
 
 ## 全文（机器翻译）
 

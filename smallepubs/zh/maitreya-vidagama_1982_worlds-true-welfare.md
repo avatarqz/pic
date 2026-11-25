@@ -5,7 +5,7 @@
 **作者**：Venerable Vīdāgama Maitreya, F. M. Rajakaruna (trans.), Introduction by
  Ānanda Kulasuriya　**年份**：1982　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/maitreya-vidagama_1982_worlds-true-welfare.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/maitreya-vidagama_1982_worlds-true-welfare.epub)
 
 
 ## 前文（机器翻译）

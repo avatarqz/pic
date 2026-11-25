@@ -4,7 +4,7 @@
 
 **作者**：Anikin Andrey Et Al　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/anikin-andrey-et-al_2023_do-some-languages-sound-more-beautiful.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/anikin-andrey-et-al_2023_do-some-languages-sound-more-beautiful.pdf)
 
 ## 全文（机器翻译）
 

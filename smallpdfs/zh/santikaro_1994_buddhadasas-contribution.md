@@ -4,7 +4,7 @@
 
 **作者**：Santikaro　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/santikaro_1994_buddhadasas-contribution.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/santikaro_1994_buddhadasas-contribution.pdf)
 
 ## 全文（机器翻译）
 

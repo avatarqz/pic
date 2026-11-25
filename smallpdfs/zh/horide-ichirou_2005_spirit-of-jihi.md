@@ -4,7 +4,7 @@
 
 **作者**：ichoride　**年份**：2005
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/horide-ichirou_2005_spirit-of-jihi.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/horide-ichirou_2005_spirit-of-jihi.pdf)
 
 ## 全文（机器翻译）
 

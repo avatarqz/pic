@@ -4,7 +4,7 @@
 
 **作者**：Roger Bischoff　**年份**：1995　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/bischoff-roger_1995_buddhism-in-myanmar.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/bischoff-roger_1995_buddhism-in-myanmar.epub)
 
 
 ## 前文（机器翻译）

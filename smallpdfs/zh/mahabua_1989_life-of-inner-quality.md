@@ -4,7 +4,7 @@
 
 **作者**：Than Acharn Maha Boowa　**年份**：1989
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mahabua_1989_life-of-inner-quality.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mahabua_1989_life-of-inner-quality.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Narada Thera　**年份**：1959
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/narada_1959_everymans-ethics.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/narada_1959_everymans-ethics.pdf)
 
 ## 全文（机器翻译）
 

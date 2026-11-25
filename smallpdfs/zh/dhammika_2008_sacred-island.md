@@ -4,7 +4,7 @@
 
 **作者**：sadhu　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dhammika_2008_sacred-island.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dhammika_2008_sacred-island.pdf)
 
 ## 全文（机器翻译）
 

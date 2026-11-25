@@ -4,7 +4,7 @@
 
 **作者**：Garma C.C. Chang (Trans.)　**年份**：1980　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/milarepa_1980_sixty-songs-of-milarepa.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/milarepa_1980_sixty-songs-of-milarepa.epub)
 
 
 ## 前文（机器翻译）

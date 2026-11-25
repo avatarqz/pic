@@ -4,7 +4,7 @@
 
 **作者**：Dodrupchen Jikme Tenpe Nyima　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/dodrupchen-jikme-tenpe-nyima_2014_on-the-ignorance-of-the-learned.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/dodrupchen-jikme-tenpe-nyima_2014_on-the-ignorance-of-the-learned.pdf)
 
 ## 全文（机器翻译）
 

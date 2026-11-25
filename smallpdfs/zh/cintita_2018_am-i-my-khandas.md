@@ -4,7 +4,7 @@
 
 **作者**：Cintita　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/cintita_2018_am-i-my-khandas.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/cintita_2018_am-i-my-khandas.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Oxford Centre for Buddhist Studies　**年份**：2011
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/choong-mk_2011_pali-and-chinese-versions-of-the-devata-and-devaputta-samyuttas.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/choong-mk_2011_pali-and-chinese-versions-of-the-devata-and-devaputta-samyuttas.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Patrick　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/cox-laurence-et-al_2009_border-country-dharma.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/cox-laurence-et-al_2009_border-country-dharma.pdf)
 
 ## 全文（机器翻译）
 

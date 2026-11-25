@@ -4,7 +4,7 @@
 
 **作者**：Damann Taylor J Et Al　**年份**：2023
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/damann-taylor-j-et-al_2023_persistence-of-gender-biases-in-europe.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/damann-taylor-j-et-al_2023_persistence-of-gender-biases-in-europe.pdf)
 
 ## 全文（机器翻译）
 

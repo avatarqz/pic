@@ -4,7 +4,7 @@
 
 **作者**：Thubten Chodron　**年份**：1988
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/thubten-chodron_1988_i-wonder-why.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/thubten-chodron_1988_i-wonder-why.pdf)
 
 ## 全文（机器翻译）
 

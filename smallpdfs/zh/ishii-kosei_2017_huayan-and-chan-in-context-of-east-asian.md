@@ -4,7 +4,7 @@
 
 **作者**：NuriMedia Contents Team　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/ishii-kosei_2017_huayan-and-chan-in-context-of-east-asian.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/ishii-kosei_2017_huayan-and-chan-in-context-of-east-asian.pdf)
 
 ## 全文（机器翻译）
 

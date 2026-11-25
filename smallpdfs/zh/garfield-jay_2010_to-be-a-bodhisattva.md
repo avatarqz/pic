@@ -4,7 +4,7 @@
 
 **作者**：hekra　**年份**：2010
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/garfield-jay_2010_to-be-a-bodhisattva.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/garfield-jay_2010_to-be-a-bodhisattva.pdf)
 
 ## 全文（机器翻译）
 

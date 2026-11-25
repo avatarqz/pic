@@ -4,7 +4,7 @@
 
 **作者**：Mahasi　**年份**：1994
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mahasi_1994_visuddhinyanakatha.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mahasi_1994_visuddhinyanakatha.pdf)
 
 ## 全文（机器翻译）
 

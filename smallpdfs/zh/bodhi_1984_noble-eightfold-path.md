@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi　**年份**：1984
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/bodhi_1984_noble-eightfold-path.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/bodhi_1984_noble-eightfold-path.pdf)
 
 ## 全文（机器翻译）
 

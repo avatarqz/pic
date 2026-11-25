@@ -4,7 +4,7 @@
 
 **作者**：Jovan　**年份**：2009
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/devido-elise_2009_taixu-in-vietnam.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/devido-elise_2009_taixu-in-vietnam.pdf)
 
 ## 全文（机器翻译）
 

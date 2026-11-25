@@ -4,7 +4,7 @@
 
 **作者**：Lush Et Al　**年份**：2016
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/lush-et-al_2016_metacognition-in-mindfulness-and-hypnosis.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/lush-et-al_2016_metacognition-in-mindfulness-and-hypnosis.pdf)
 
 ## 全文（机器翻译）
 

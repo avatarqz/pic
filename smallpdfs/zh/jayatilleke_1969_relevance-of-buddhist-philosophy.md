@@ -4,7 +4,7 @@
 
 **作者**：K. N. Jayatilleke　**年份**：1969
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/jayatilleke_1969_relevance-of-buddhist-philosophy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/jayatilleke_1969_relevance-of-buddhist-philosophy.pdf)
 
 ## 全文（机器翻译）
 

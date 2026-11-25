@@ -4,7 +4,7 @@
 
 **作者**：Roberto Chiodelli　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chiodelli-et-al_2018_effects-of-mindfulness-intervention.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chiodelli-et-al_2018_effects-of-mindfulness-intervention.pdf)
 
 ## 全文（机器翻译）
 

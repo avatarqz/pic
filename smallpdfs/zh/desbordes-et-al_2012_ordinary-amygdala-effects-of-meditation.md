@@ -4,7 +4,7 @@
 
 **作者**：Desbordes Et Al　**年份**：2012
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/desbordes-et-al_2012_ordinary-amygdala-effects-of-meditation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/desbordes-et-al_2012_ordinary-amygdala-effects-of-meditation.pdf)
 
 ## 全文（机器翻译）
 

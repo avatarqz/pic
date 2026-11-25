@@ -4,7 +4,7 @@
 
 **作者**：R. Bogoda, Susan Elbaum Jootla, and M.O’C. Walshe　**年份**：2017　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/the-buddhist-layman.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/the-buddhist-layman.epub)
 
 
 ## 前文（机器翻译）

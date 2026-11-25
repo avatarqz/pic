@@ -4,7 +4,7 @@
 
 **作者**：Vijitha Rajapakse　**年份**：2000
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/rajapakse-vijitha_2000_therigatha-revaluation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/rajapakse-vijitha_2000_therigatha-revaluation.pdf)
 
 ## 全文（机器翻译）
 

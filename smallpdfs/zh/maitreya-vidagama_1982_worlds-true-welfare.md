@@ -4,7 +4,7 @@
 
 **作者**：Venerable Vīdāgama Maitreya, F. M. Rajakaruna (trans.), Introduction by　**年份**：1982
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/maitreya-vidagama_1982_worlds-true-welfare.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/maitreya-vidagama_1982_worlds-true-welfare.pdf)
 
 ## 全文（机器翻译）
 

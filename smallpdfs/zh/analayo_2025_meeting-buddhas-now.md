@@ -4,7 +4,7 @@
 
 **作者**：Analayo　**年份**：2025
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/analayo_2025_meeting-buddhas-now.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/analayo_2025_meeting-buddhas-now.pdf)
 
 ## 全文（机器翻译）
 

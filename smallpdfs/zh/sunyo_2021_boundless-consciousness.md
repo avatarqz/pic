@@ -4,7 +4,7 @@
 
 **作者**：Sunyo　**年份**：2021
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sunyo_2021_boundless-consciousness.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sunyo_2021_boundless-consciousness.pdf)
 
 ## 全文（机器翻译）
 

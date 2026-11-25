@@ -4,7 +4,7 @@
 
 **作者**：Abeysekara, Ananda　**年份**：1999
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/abeysekara-ananda_1999_politics-of-higher-ordination.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/abeysekara-ananda_1999_politics-of-higher-ordination.pdf)
 
 ## 全文（机器翻译）
 

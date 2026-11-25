@@ -4,7 +4,7 @@
 
 **作者**：Padmasiri de Silva　**年份**：1976　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/desilva_1976_psychology-of-emotions.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/desilva_1976_psychology-of-emotions.epub)
 
 
 ## 前文（机器翻译）

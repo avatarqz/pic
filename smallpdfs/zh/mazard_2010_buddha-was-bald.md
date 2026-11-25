@@ -4,7 +4,7 @@
 
 **作者**：Mazard　**年份**：2010
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mazard_2010_buddha-was-bald.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mazard_2010_buddha-was-bald.pdf)
 
 ## 全文（机器翻译）
 

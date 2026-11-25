@@ -4,7 +4,7 @@
 
 **作者**：imac-freddy　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/efurd-david_2018_western-india-in-the-aftermath.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/efurd-david_2018_western-india-in-the-aftermath.pdf)
 
 ## 全文（机器翻译）
 

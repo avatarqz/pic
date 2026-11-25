@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Anālayo　**年份**：2020
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/analayo_2020_centrality-of-mindfulness-related.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/analayo_2020_centrality-of-mindfulness-related.pdf)
 
 ## 全文（机器翻译）
 

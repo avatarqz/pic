@@ -4,7 +4,7 @@
 
 **作者**：Rabjam Longchenpa　**年份**：2011
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/rabjam-longchenpa_2011_advice-on-the-ultimate-meaning.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/rabjam-longchenpa_2011_advice-on-the-ultimate-meaning.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Faxian　**年份**：2006
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/fa-hsien.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/fa-hsien.epub)
 
 
 ## 前文（机器翻译）

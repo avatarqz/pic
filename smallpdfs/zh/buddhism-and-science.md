@@ -4,7 +4,7 @@
 
 **作者**：K. N. Jayatilleke, Robert F. Spencer, Wu Shu
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/buddhism-and-science.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/buddhism-and-science.pdf)
 
 ## 全文（机器翻译）
 

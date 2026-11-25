@@ -4,7 +4,7 @@
 
 **作者**：Mipham　**年份**：2006
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/mipham_2006_profound-instruction.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/mipham_2006_profound-instruction.pdf)
 
 ## 全文（机器翻译）
 

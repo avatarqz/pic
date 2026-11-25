@@ -4,7 +4,7 @@
 
 **作者**：Ajahn Sucitto　**年份**：2014　**出版者**：Amaravati Publications
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/sucitto_2014_samadhi-is-pure-enjoyment.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/sucitto_2014_samadhi-is-pure-enjoyment.epub)
 
 
 ## 前文（机器翻译）

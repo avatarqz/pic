@@ -4,7 +4,7 @@
 
 **作者**：Chandako　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/chandako_2019_kor-what.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/chandako_2019_kor-what.pdf)
 
 ## 全文（机器翻译）
 

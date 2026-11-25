@@ -4,7 +4,7 @@
 
 **作者**：Gokhale, Balkrishna Govind　**年份**：1982
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/gokhale_1982_early-buddhism-and-urban-revolution.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/gokhale_1982_early-buddhism-and-urban-revolution.pdf)
 
 ## 全文（机器翻译）
 

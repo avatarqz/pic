@@ -4,7 +4,7 @@
 
 **作者**：Buddhaghosa　**年份**：1956
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/buddhaghosa_1956_vsm.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/buddhaghosa_1956_vsm.epub)
 
 
 ## 前文（机器翻译）

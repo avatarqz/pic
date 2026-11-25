@@ -4,7 +4,7 @@
 
 **作者**：Suvimalee Karunaratna　**年份**：1988
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/karunaratna-suvimalee_1988_walking-meditation-story.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/karunaratna-suvimalee_1988_walking-meditation-story.epub)
 
 
 ## 前文（机器翻译）

@@ -4,7 +4,7 @@
 
 **作者**：Zenkar　**年份**：2008
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/zenkar_2008_bodhicaryavatara-overview.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/zenkar_2008_bodhicaryavatara-overview.pdf)
 
 ## 全文（机器翻译）
 

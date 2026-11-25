@@ -4,7 +4,7 @@
 
 **作者**：Miri Albahari　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/albahari-miri_2014_insight-knowledge-of-no-self-in-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/albahari-miri_2014_insight-knowledge-of-no-self-in-buddhism.pdf)
 
 ## 全文（机器翻译）
 

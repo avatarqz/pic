@@ -4,7 +4,7 @@
 
 **作者**：Attwood J S　**年份**：2017
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/attwood-j-s_2017_form-not-emptiness-enigma-at-heart-of.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/attwood-j-s_2017_form-not-emptiness-enigma-at-heart-of.pdf)
 
 ## 全文（机器翻译）
 

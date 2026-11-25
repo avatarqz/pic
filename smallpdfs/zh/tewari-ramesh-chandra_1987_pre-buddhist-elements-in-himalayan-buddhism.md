@@ -4,7 +4,7 @@
 
 **作者**：Tewari, Ramesh Chandra　**年份**：1987
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/tewari-ramesh-chandra_1987_pre-buddhist-elements-in-himalayan-buddhism.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/tewari-ramesh-chandra_1987_pre-buddhist-elements-in-himalayan-buddhism.pdf)
 
 ## 全文（机器翻译）
 

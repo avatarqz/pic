@@ -4,7 +4,7 @@
 
 **作者**：Susan Elbaum Jootla　**年份**：1984　**出版者**：Buddhist Publication Society
 
-> **原文 EPUB**：[点击查看 / 下载 EPUB](/smallepubs/jootla_1984_inspiration-from-enlightened-nuns.epub)
+> **原文 EPUB**：[点击查看 / 下载 EPUB](https://raw.githubusercontent.com/buddhist-uni/smallepubs/main/jootla_1984_inspiration-from-enlightened-nuns.epub)
 
 
 ## 前文（机器翻译）

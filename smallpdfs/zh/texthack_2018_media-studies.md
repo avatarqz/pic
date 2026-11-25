@@ -4,7 +4,7 @@
 
 **作者**：Texthack　**年份**：2018
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/texthack_2018_media-studies.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/texthack_2018_media-studies.pdf)
 
 ## 全文（机器翻译）
 

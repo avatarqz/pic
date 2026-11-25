@@ -4,7 +4,7 @@
 
 **作者**：Wangpo Jamyang Loter　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/wangpo-jamyang-loter_2022_knowable-objects.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/wangpo-jamyang-loter_2022_knowable-objects.pdf)
 
 ## 全文（机器翻译）
 

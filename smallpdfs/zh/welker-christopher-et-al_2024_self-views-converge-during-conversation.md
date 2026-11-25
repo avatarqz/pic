@@ -4,7 +4,7 @@
 
 **作者**：Welker Christopher Et Al　**年份**：2024
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/welker-christopher-et-al_2024_self-views-converge-during-conversation.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/welker-christopher-et-al_2024_self-views-converge-during-conversation.pdf)
 
 ## 全文（机器翻译）
 

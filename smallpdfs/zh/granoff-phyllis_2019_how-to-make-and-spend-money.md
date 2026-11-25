@@ -4,7 +4,7 @@
 
 **作者**：Granoff Phyllis　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/granoff-phyllis_2019_how-to-make-and-spend-money.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/granoff-phyllis_2019_how-to-make-and-spend-money.pdf)
 
 ## 全文（机器翻译）
 

@@ -4,7 +4,7 @@
 
 **作者**：Karpik Stefan　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/karpik-stefan_2019_buddha-pali.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/karpik-stefan_2019_buddha-pali.pdf)
 
 ## 全文（机器翻译）
 

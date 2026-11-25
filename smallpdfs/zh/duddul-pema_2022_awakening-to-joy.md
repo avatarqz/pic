@@ -4,7 +4,7 @@
 
 **作者**：Duddul Pema　**年份**：2022
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/duddul-pema_2022_awakening-to-joy.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/duddul-pema_2022_awakening-to-joy.pdf)
 
 ## 全文（机器翻译）
 

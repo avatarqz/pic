@@ -4,7 +4,7 @@
 
 **作者**：Sucitto　**年份**：2014
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sucitto_2014_samadhi-is-pure-enjoyment.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sucitto_2014_samadhi-is-pure-enjoyment.pdf)
 
 ## 全文（机器翻译）
 

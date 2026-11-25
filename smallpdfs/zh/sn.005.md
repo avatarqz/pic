@@ -4,7 +4,7 @@
 
 **作者**：Bhikkhu Bodhi
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/sn.005.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/sn.005.pdf)
 
 ## 全文（机器翻译）
 

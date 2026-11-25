@@ -4,7 +4,7 @@
 
 **作者**：Penwell Cameron　**年份**：2019
 
-> **原文 PDF**：[点击查看 / 下载 PDF](/smallpdfs/penwell-cameron_2019_watanabe-kaigyoku.pdf)
+> **原文 PDF**：[点击查看 / 下载 PDF](https://raw.githubusercontent.com/buddhist-uni/smallpdfs/main/penwell-cameron_2019_watanabe-kaigyoku.pdf)
 
 ## 全文（机器翻译）
 
